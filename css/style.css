@@ -132,6 +132,8 @@ div.content span.figureCaption {
 	color: #999;
 	font-style: italic;
 	margin: 0 auto;
+	font-size: 0.8em;
+	line-height: 18px;
 	text-align: center;
 }
 
