@@ -144,7 +144,7 @@ div.bottom {
 }
 
 div.bottom div.bottom1 {
-	width: 1000px;
+	width: 100%;
 	height: 150px;
 	border-top: 1px solid #CCC;
 	background: #FAFAFA;
@@ -154,7 +154,7 @@ div.bottom div.bottom1 {
 
 div.bottom div.bottom1Left {
 	float: left;
-	width: 500px;
+	width: 50%;
 }
 
 div.bottom div.bottom1Left img {
@@ -167,14 +167,14 @@ div.bottom div.bottom1Left p {
 
 div.bottom div.bottom1Right {
 	float: right;
-	width: 490px;
-	margin-left: 10px;
+	width: 49%;
+	margin-left: 1%;
 }
 
 div.bottom div.bottom2 {
 	border-top: 1px solid #CCC;
 	background: #FAFAFA;
-	width: 1000px;
+	width: 100%;
 	padding: 0 10px 10px 10px;
 	margin-left: -10px;
 }
@@ -188,4 +188,52 @@ div.bottom div.bottom2 img {
 }
 
 @media only screen and (max-device-width: 480px) {
+	div.main {
+		width: 290px;
+	}
+	div.header {
+	}
+	div.header img.headerLogo {
+		display: none;
+	}
+	div.header h1.headerTitle {
+		font-size: 2em;
+		margin: 0 0 16px 0;
+	}
+	div.header div.headerNav {
+	}
+	div.header div.headerNav a {
+	}
+	div.content img.figure {
+		max-height: 150px;
+	}
+	div.content span.figureCaption {
+		width: 290px;
+	}
+	div.content img.eventPhoto {
+		max-height: 100px;
+	}
+	div.bottom {
+	}
+	div.bottom div.bottom1 {
+	}
+	div.bottom div.bottom1Left {
+		font-size: 0.4em;
+	}
+	div.bottom div.bottom1Left img {
+	}
+	div.bottom div.bottom1Left p {
+	}
+	div.bottom div.bottom1Right {
+		font-size: 0.7em;
+	}
+	div.bottom div.bottom2 {
+	}
+	div.bottom div.bottom2 img {
+		display: inline;
+		max-height: 15px;
+		width: auto;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
 }
