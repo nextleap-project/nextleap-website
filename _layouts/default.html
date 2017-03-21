@@ -2,20 +2,19 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
-	<meta name="viewport" content="
-		user-scalable=no, initial-scale=1,
-		maximum-scale=1, minimum-scale=1,
-		width=device-width, height=device-height,
-		target-densitydpi=device-dpi"
-	/>
+	<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
 	<meta name="keywords" content="nextleap, nextleap project, projet nextleap" />
 	<meta name="description" content="NEXTLEAP aims to create, validate, and deploy communication and computation protocols that can serve as pillars for a secure, trust-worthy, annotable and privacy-respecting Internet that ensures citizens fundamental rights." />
-	<title>Home | NEXTLEAP Project</title>
+	<title>{{ page.title }}</title>
+
 	<link rel="stylesheet" href="/css/fonts.css" type="text/css" />
 	<link rel="stylesheet" href="/css/style.css" type="text/css" />
 	<link rel="stylesheet" href="/css/octicons.css" type="text/css" />
+
 	<link rel="icon" type="image/png" href="/img/static/logo.png" />
+
 	<link rel="image_src" href="https://nextleap.eu/img/static/logo.png" />
+
 	<script type="application/javascript" src="/js/util.js"></script>
 	<script type="application/javascript">
 		window.addEventListener('load', function() {
@@ -26,15 +25,10 @@
 <body>
 	<div class="main">
 		<div class="header">
-			<img src="img/static/logo.png" class="headerLogo" alt="" />
+			<img src="/img/static/logo.png" class="headerLogo" alt="" />
 			<h1 class="headerTitle">NEXTLEAP Project</h1>
 			<div class="headerNav">
-				<a href="index.html" class="selected">Home</a>
-				<a href="objectives.html">Objectives</a>
-				<a href="tasks.html">Tasks</a>
-				<a href="events.html">Events</a>
-				<a href="publications.html">Publications</a>
-				<a href="resources.html">Resources</a>
+        {% include navigation.html %}
 			</div>
 		</div>
 
@@ -57,13 +51,7 @@
     </div>
   </div>
   <div class="bottom2">
-    <h3>Partners</h3>
-    <img src="/img/static/inria.png" alt="INRIA" />
-    <img src="/img/static/imdea.jpg" alt="IMDEA" />
-    <img src="/img/static/cnrs.png" alt="CNRS" />
-    <img src="/img/static/iri.png" alt="IRI (Centre Pompidou)" />
-    <img src="/img/static/ucl.png" alt="UCL" />
-    <img src="/img/static/merlinux.jpg" alt="Merlinux" />
+    {% include partners.html %}
   </div>
 </div>
 </div>
