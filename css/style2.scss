@@ -52,14 +52,10 @@ footer {
 	h2 {
 		padding: 40px 0 20px 0;
 		text-align: center;
-		text-decoration: underline;
-		text-decoration-color: yellow;
 	}
 
 	h3 {
 		text-align: center;
-		text-decoration: underline;
-		text-decoration-color: #0099ff;
 
 		.info {
 			color: #999;
@@ -67,6 +63,17 @@ footer {
 			text-decoration: none;
 		}
 	}
+
+	& > h2 {
+		text-decoration: underline;
+		text-decoration-color: yellow;
+	}
+
+	& > h3 {
+		text-decoration: underline;
+		text-decoration-color: #0099ff;
+	}
+
 
 	h4 {
 		// text-align: center;
