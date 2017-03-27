@@ -1,7 +1,10 @@
 {% include header.html %}
 
   {% if page.container == true %}<div class="container">{% endif %}
-  {{page.meta.container}}
+
+  {% if page.danger %}<div class="alert alert-danger">{{ page.danger }}</div>{% endif %}
+  {% if page.warning %}<div class="alert alert-warning">{{ page.warning }}</div>{% endif %}
+
   {{ content }}
 
   {% if page.container == true %}</div>{% endif %}
