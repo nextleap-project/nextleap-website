@@ -1,0 +1,39 @@
+{% include header.html %}
+
+<div class="container seminar">
+
+<h2>{{ page.title }}</h2>
+
+<div class="row">
+  <div class="col col-md-3">
+
+    <div class="info">
+      <h3>date</h3>
+      <div class="date">
+        {{ page.date_pretty }}
+      </div>
+
+      <h3>location</h3>
+      <div class="location">
+        {{ page.location }}
+      </div>
+    </div>
+
+    <h3>speakers</h3>
+
+    <ul>
+    {% for speaker in page.speakers %}
+      <li>{{ speaker }}</li>
+    {% endfor %}
+    </ul>
+
+  </div>
+
+  <div class="col col-md-9">
+    {{ content }}
+  </div>
+</div>
+
+</div>
+
+{% include footer.html %}
