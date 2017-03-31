@@ -4,25 +4,11 @@ title: autocrypt
 project_url: https://autocrypt.readthedocs.io/en/latest/
 
 abstract: |
-  If users ask how they can secure their e-mail the answer should be as simple as: use an Autocrypt-enabled mail app!
+  As parts of bringing privacy-preserving end-to-end encryption to decentralized messaging, researchers and implementers in NEXTLEAP are majorly participating in the new <a href="https://autocrypt.readthedocs.io/en/latest/">Autocrypt</a> effort. It aims to leverage the email ecosystem, the biggest federated identity and messaging network, and bring encryption to wider audience than other efforts in the last 15 years.
 ---
 
-Introducing Autocrypt: E-Mail Encryption for Everyone
+## Autocrypt
 
-If users ask how they can secure their e-mail the answer should be as simple as: use an Autocrypt-enabled mail app!
+As parts of bringing privacy-preserving end-to-end encryption to decentralized messaging, researchers and implementers in NEXTLEAP are majorly participating in the new <a href="https://autocrypt.readthedocs.io/en/latest/">Autocrypt</a> effort. It aims to leverage the email ecosystem, the biggest federated identity and messaging network, and bring encryption to wider audience than other efforts in the last 15 years.
 
-Why improve e-mail? E-Mail has been declared dead many times but refuses to die. It remains the largest open federated identity and messaging eco-system, anchors the web, mobiles and continues to relay sensitive information between people and organisations. It has problems but do you prefer the proprietary, easy-to-track mobile phone number system to become the single source of digital identification?
-
-Why a new approach to e-mail encryption? Encrypted e-mail has been around for decades, but has failed to see wide adoption outside of specialist communities, in large part because of difficulties with user experience and certification models. Autocrypt first aims to provide convenient encryption that is neither perfect nor as secure as traditional e-mail encryption, but is convenient enough for much wider adoption.
-
-### The social Autocrypt approach
-
-The Autocrypt project is driven by a diverse group of mail app developers, hackers and researchers who are willing to take fresh approaches, learn from past mistakes, and collectively aim to increase the overall encryption of e-mail in the net. The group effort was born and named “Autocrypt” on December 17th 2016 by ~20 people during a 5-day meeting at the OnionSpace in Berlin. It’s a dynamic, fun process which is open to new people, influences and contributions. See contact channels and upcoming events on how you may talk with us and who “we” are currently.
-
-### The technical Autocrypt approach
-
-Autocrypt uses regular e-mail messages between people to piggyback necessary information to allow encrypting subsequent messages; it adds a new Autocrypt e-mail header for transferring public keys and driving encryption behaviour. By default, key management is not visible to users. See Autocrypt features for more technical and UI cornerstones.
-
-We are following this approach step-by-step using different “Levels” of implementation compliance. Driven by usability concerns, we are refining and implementing Level 0 in several mail apps during Spring 2017. If you are interested to help please join our channels and look at where we meet next.
-
-See Current docs (work-in-progress) for an index of all docs and discussion results so far.
+For more information, you can visit [the project website](https://autocrypt.readthedocs.io/en/latest/)
