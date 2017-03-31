@@ -3,6 +3,8 @@ title: autocrypt
 
 project_url: https://autocrypt.readthedocs.io/en/latest/
 
+icon: envelope-o
+
 abstract: |
   As parts of bringing privacy-preserving end-to-end encryption to decentralized messaging, researchers and implementers in NEXTLEAP are majorly participating in the new <a href="https://autocrypt.readthedocs.io/en/latest/">Autocrypt</a> effort. It aims to leverage the email ecosystem, the biggest federated identity and messaging network, and bring encryption to wider audience than other efforts in the last 15 years.
 ---
