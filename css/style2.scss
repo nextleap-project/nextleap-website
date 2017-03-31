@@ -166,6 +166,14 @@ footer {
 		& > div { margin-bottom: 40px; }
 	}
 
+  .flyer {
+    margin : 20px 0;
+
+    -webkit-box-shadow: 3px 3px 9px 0px rgba(153,153,153,0.6);
+    -moz-box-shadow: 3px 3px 9px 0px rgba(153,153,153,0.6);
+    box-shadow: 3px 3px 9px 0px rgba(153,153,153,0.6);
+  }
+
 }
 
 #partners {
