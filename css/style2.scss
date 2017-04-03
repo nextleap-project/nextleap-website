@@ -121,23 +121,28 @@ footer {
 #projects {
 	& > div {
 		margin: 20px 0;
-
-		& > div:first-child {
-			text-align: right;
-		}
 	}
 
 	& > div:first-child { margin-top: 0px; }
 	& > div:last-child { margin-bottom: 0px; }
 
 	h3 {
-		text-align: right;
+		text-align: left;
+    margin-top: 0.6em;
 	}
 
   .icon {
     text-align: center;
     font-size: 1.5em;
     color: #999;
+  }
+
+  .learn_more {
+    margin-bottom: 10px;
+  }
+
+  .abstract + .learn_more {
+    margin-top: 1em;
   }
 }
 

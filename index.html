@@ -78,20 +78,21 @@ container: false
 
 	{% for project in site.projects %}
 	<div class="row">
-		<div class="col col-md-3">
-					<h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
-					<a href="{{ project.url }}">Learn more</a>
-		</div>
-
 		<div class="icon col col-md-1">
 			<span class="fa-stack fa-lg">
 				<i class="fa fa-circle fa-stack-2x"></i>
 				<i class="fa fa-{{ project.icon }} fa-stack-1x fa-inverse"></i>
-		</span>
+			</span>
 		</div>
 
 		<div class="col col-md-8">
-				{{ project.abstract }}
+				<h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
+
+				<div class="abstract">
+					{{ project.abstract }}
+				</div>
+
+				<div class="learn_more"><a href="{{ project.url }}">Learn more</a></div>
 		</div>
 	</div>
 	{% endfor %}
