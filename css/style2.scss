@@ -3,6 +3,8 @@
 
  @import url('https://fonts.googleapis.com/css?family=Open+Sans|Quicksand:300,400,500,700&subset=latin-ext');
 
+ @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700');
+
 nav {
 	background-color: black !important;
 
@@ -69,8 +71,12 @@ footer {
 	}
 
 	& > h2 {
-		text-decoration: underline;
-		text-decoration-color: yellow;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 2.5em;
+    text-align: left;
+
+		// text-decoration: underline;
+		// text-decoration-color: yellow;
 	}
 
 	& > h3 {
@@ -97,6 +103,12 @@ footer {
 }
 
 .seminar {
+  .info {
+    ul {
+      padding-left: 1em;
+    }
+  }
+
 
 	.date {
 		font-weight: bold;
