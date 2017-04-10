@@ -32,6 +32,8 @@ nav {
 	}
 
 	h2 {
+    font-family: 'Libre Baskerville', serif;
+
 		text-align: left !important;
 		padding-top: 0 !important;
 		text-decoration: none !important;
@@ -74,6 +76,11 @@ footer {
     font-family: 'Libre Baskerville', serif;
     font-size: 2.5em;
     text-align: left;
+
+    padding : 0em;
+    margin: 1em 0 0.5em 0;
+
+    // background-color: #fffcaa; // #fffc82;
 
 		// text-decoration: underline;
 		// text-decoration-color: yellow;
@@ -121,6 +128,7 @@ footer {
 
 	.col {
 		h3 {
+      font-family: 'Libre Baskerville', serif;
 			color: #999;
 
 			font-size: 1em;
