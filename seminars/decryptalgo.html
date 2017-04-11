@@ -1,0 +1,37 @@
+---
+title: home
+
+layout: default2
+body_notitle: true
+container: false
+---
+
+<div id="events" class="container">
+	<h2>Decrypting Algorithms</h2>
+
+	<div class="row">
+		{% for seminar in site.seminars %}
+
+			{% unless seminar.hide %}
+
+				<div class="col col-md-4">
+
+				<img class="img-fluid flyer" src="{{ seminar.poster }}" alt="">
+
+				<h4>
+					<a href="{{ seminar.url }}">{{ seminar.title }}</a>
+					<div class="info">
+						{{ seminar.start | date: "%d.%m" }}
+					</div>
+				</h4>
+
+				<p><a href="{{ seminar.url }}" class="btn btn-primary">more information</a></p>
+
+
+				</div>
+
+			{% endunless %}
+
+		{% endfor %}
+	</div>
+</div>
