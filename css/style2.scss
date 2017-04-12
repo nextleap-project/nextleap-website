@@ -87,8 +87,10 @@ footer {
 	}
 
 	& > h3 {
-		text-decoration: underline;
-		text-decoration-color: #0099ff;
+    text-align: left;
+    margin: 0.5em 0 0.3em 0;
+		// text-decoration: underline;
+		// text-decoration-color: #0099ff;
 	}
 
 	h4 {
@@ -211,4 +213,13 @@ footer {
 		margin-left: 20px;
 		margin-right: 20px;
 	}
+}
+
+.launch {
+  .speaker {
+    h4 {
+      margin-top: 0.5em;
+      text-align : center;
+    }
+  }
 }
