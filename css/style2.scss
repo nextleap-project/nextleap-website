@@ -73,6 +73,20 @@ footer {
 		}
 	}
 
+	h4 {
+		// text-align: center;
+
+		.info {
+			color: #999;
+			font-size: 0.8em;
+		}
+	}
+
+	h5 {
+		font-size: 1em;
+		font-weight: bold;
+	}
+
 	& > h2 {
     font-family: 'Libre Baskerville', serif;
     font-size: 2.5em;
@@ -92,15 +106,6 @@ footer {
     margin: 0.5em 0 0.3em 0;
 		// text-decoration: underline;
 		// text-decoration-color: #0099ff;
-	}
-
-	h4 {
-		// text-align: center;
-
-		.info {
-			color: #999;
-			font-size: 0.8em;
-		}
 	}
 
 	img {
