@@ -184,8 +184,10 @@ footer {
 #events {
 	&.page {
 		h2, h3 { text-align: left;}
-
 	}
+
+	h4 { margin-top: 1.5em; }
+	h5 { margin-top: 1em; }
 
 	.event {
 		margin-bottom: 0.5em;

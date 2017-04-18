@@ -50,16 +50,44 @@ container: false
 		</div>
 
 		<div class="col col-md-6">
-
 			<h3>Decrypting Algorithms</h3>
 
-			<h4>What is "good encryption"? <div class="info">28.03.2017 14:00-17:00</div></h4>
+			{% for seminar in site.seminars reversed %}
+			{% if seminar.highlight == true %}
+				<h4>
+					{{ seminar.title }}
+					<div class="info">{{ seminar.date_pretty }}</div>
+				</h4>
 
-			<strong>Location:</strong> ISCC - Salle de conférences (RdC), 20 rue Berbier-du-Mets, 75013 Paris
+				<h5>Location:</h5>
+				{{ seminar.location_inline }}
 
-			<img class="img-fluid flyer" src="/seminars/poster1.png" alt="">
+				{% if seminar.poster %}
+					<img class="img-fluid flyer" src="{{ seminar.poster }}" alt="">
+				{% else %}
+					<div class="speakers">
+						<h5>Speakers:</h5>
 
-			<p><a href="/seminars/2017-1.html" class="btn btn-primary">more information</a></p>
+						<ul>
+							{% for speaker in seminar.speakers %}
+							<li> {{ speaker }}</li>
+							{% endfor %}
+						</ul>
+					</div>
+
+					<div class="abstract">
+						<h5>Abstract:</h5>
+
+						<p>{{ seminar.abstract }}</p>
+					</div>
+				{% endif %}
+
+				<p><a href="{{ seminar.url }}" class="btn btn-primary">more information</a></p>
+
+				{% continue %}
+			{% endif %}
+
+			{% endfor %}
 
 			<h4>Other seminars</h4>
 
