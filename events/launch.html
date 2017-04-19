@@ -4,6 +4,42 @@ title: Political issues of cryptography
 layout: default2
 container: false
 
+panel:
+-
+  name: Tanja Lange
+  bio: University Eindhoven, Project co-ordinator of PQCRYPTO (Post-Quantum Cryptography)
+-
+  name: Daniel Bernstein
+  bio: University Illinois/Eindhoven, inventor of Curve25519
+-
+  name: Moti Yung
+  bio: Snapshot, inventor of cryptovirology and kleptography
+-
+  name: Slim Amamou
+  bio: Tunisian Blogger/Activist, former Secretary of State post-2011 revolution
+-
+  name: Philip Rogaway
+  bio: University of California, Author of "The Moral Character of Cryptographic Work"
+
+junior_panel:
+-
+  name: Marios
+  topic: UnlimitID
+-
+  name: Bodgan
+  topic: ClaimChain
+-
+  name: Natalia
+  topic: Formal Verification
+-
+  name: Ksenia
+  topic: High-risk activist STS of crypto
+-
+  name: Holger
+  topic: Autocrypt
+-
+  name: Vincent Puig
+  topic: Net Rights Contributions
 ---
 
 <div class="jumbotron jumbotron-fluid">
@@ -17,7 +53,7 @@ container: false
       <p>Although historically cryptography has been restricted to government and industrial use, there has recently, after revelations of mass surveillance by Snowden, been increased interest in securing the everyday communications of citizens: Applications such WhatsApp, Telegram, Silence, Crypto.cat, Signal, and even PGP all claim to use end-to-end encrypted messaging to secure the content of communication. There has been discussion in France after the Bataclan attacks of banning end-to-end encryption, and in recent weeks, Macron wanted to keep end-to-end encryption legal but have all passwords available to the government. Rumors of hacking now dominate the news, and are claimed even influence elections. Given that cryptography has moved from an obscure branch of mathematical number theory to a real-world problem, the NEXTLEAP project is drawing together an interdisciplinary group of cryptographers, activists, and philosophers to discuss the political significance of cryptography.</p>
 
       <p class="lead">
-        <a class="btn btn-primary" href="https://nextleap-launch.eventbrite.com">Get your (FREE) ticket</a>
+        <a class="btn btn-primary" href="https://nextleap-launch.eventbrite.com">Get your FREE ticket</a>
       </p>
 
     </div>
@@ -27,13 +63,15 @@ container: false
 </div>
 
 <div class="launch container">
-  <h2>17:00 Between Secrecy and transparency / Bernard Stiegler</h2>
+  <h2>17:00 Between Secrecy and transparency</h2>
 
   <div class="row">
-    <div class="speaker col col-md-2">
-      <img src="http://lorempixel.com/100/100/people" class="rounded-circle" alt="">
-      <h4>Bernard Stiegler</h4>
+    <div class="col col-md-2">
+      <div class="speaker">
+        <h4>Bernard Stiegler</h4>
+      </div>
     </div>
+
     <div class="col col-md-8">
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie, quam eu dictum ultricies, risus libero ultricies nibh, eleifend luctus libero mi eget metus. Phasellus mollis viverra eros, id tempus nulla fringilla sit amet. Nunc sit amet nulla in dolor imperdiet interdum. Sed facilisis, tortor in luctus sollicitudin, sapien metus pellentesque velit, in iaculis velit tortor in eros. In dapibus consequat arcu, ullamcorper consectetur ante imperdiet ut. Donec semper sollicitudin est blandit efficitur. Aenean et diam leo. Pellentesque a dui massa. Praesent eu ante quis odio tincidunt mattis. Aliquam ultrices pulvinar nisi, in ultrices ligula dictum nec. Morbi a ex at magna convallis convallis. Cras non purus non ante tincidunt pharetra. Etiam vel ultricies eros. Ut ultricies nunc urna, ut efficitur metus posuere vehicula. </p>
     </div>
@@ -42,84 +80,46 @@ container: false
   <h2>17:30 Panel 1</h2>
 
   <div class="row">
-    <div class="col col-md-4">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie, quam eu dictum ultricies, risus libero ultricies nibh, eleifend luctus libero mi eget metus. Phasellus mollis viverra eros, id tempus nulla fringilla sit amet. Nunc sit amet nulla in dolor imperdiet interdum. Sed facilisis, tortor in luctus sollicitudin, sapien metus pellentesque velit, in iaculis velit tortor in eros. In dapibus consequat arcu, ullamcorper consectetur ante imperdiet ut.</p>
+  <div class="col col-md-4">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie, quam eu dictum ultricies, risus libero ultricies nibh, eleifend luctus libero mi eget metus. Phasellus mollis viverra eros, id tempus nulla fringilla sit amet. Nunc sit amet nulla in dolor imperdiet interdum. Sed facilisis, tortor in luctus sollicitudin, sapien metus pellentesque velit, in iaculis velit tortor in eros. In dapibus consequat arcu, ullamcorper consectetur ante imperdiet ut.</p>
 
-      <p>Moderator: Vincent Puig</p>
-    </div>
-
-    <div class="speaker col col-md-2">
-      <img src="http://lorempixel.com/100/100/people" class="rounded-circle" alt="">
-      <h4>Bob McCarty</h4>
-    </div>
-    <div class="speaker col col-md-2">
-      <img src="http://lorempixel.com/100/100/people" class="rounded-circle" alt="">
-      <h4>Elizabeth Jones</h4>
-    </div>
-    <div class="speaker col col-md-2">
-      <img src="http://lorempixel.com/100/100/people" class="rounded-circle" alt="">
-      <h4>Elizabeth Jones</h4>
-    </div>
-    <div class="speaker col col-md-2">
-      <img src="http://lorempixel.com/100/100/people" class="rounded-circle" alt="">
-      <h4>Bill Baskerville</h4>
-    </div>
-
+    <p>Moderator: Vincent Puig</p>
   </div>
 
-  <h2>19:00 Panel 2</h2>
+
+  <div class="col col-md-8">
+    {% for speaker in page.panel %}
+      <div class="speaker">
+        <h5>{{ speaker.name }}</h5>
+
+        <div class="bio">
+          {{ speaker.bio }}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  </div>
+
+  <h2>20:30 NEXTLEAP researchers</h2>
 
   <div class="row">
     <div class="col col-md-4">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie, quam eu dictum ultricies, risus libero ultricies nibh, eleifend luctus libero mi eget metus. Phasellus mollis viverra eros, id tempus nulla fringilla sit amet. Nunc sit amet nulla in dolor imperdiet interdum. Sed facilisis, tortor in luctus sollicitudin, sapien metus pellentesque velit, in iaculis velit tortor in eros. In dapibus consequat arcu, ullamcorper consectetur ante imperdiet ut.</p>
-
-      <p>Moderator: Harry Halpin</p>
+      <p>Researchers and Ph.D. students funded by the EC NEXTLEAP proposal will present their work in progress, including the unveiling of a platform to collectively discuss Internet Rights.</p>
     </div>
 
-    <div class="speaker col col-md-2">
-      <img src="http://lorempixel.com/100/100/people" class="rounded-circle" alt="">
-      <h4>Tanja Lange</h4>
-    </div>
-    <div class="speaker col col-md-2">
-      <img src="http://lorempixel.com/100/100/people" class="rounded-circle" alt="">
-      <h4>Daniel Bernstein</h4>
-    </div>
-    <div class="speaker col col-md-2">
-      <img src="http://lorempixel.com/100/100/people" class="rounded-circle" alt="">
-      <h4>Moti Yung</h4>
-    </div>
-    <div class="speaker col col-md-2">
-      <img src="http://lorempixel.com/100/100/people" class="rounded-circle" alt="">
-      <h4>Slim Amamou</h4>
-    </div>
+    <div class="col col-md-8">
+      {% for speaker in page.junior_panel %}
+      <div class="speaker">
+        <h5>{{ speaker.name }}</h5>
 
+        <div class="bio">
+            {{ speaker.topic }}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
   </div>
 
-  <h2>20:30 Young researchers panel</h2>
-
-  <div class="row">
-    <div class="col col-md-4">
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed molestie, quam eu dictum ultricies, risus libero ultricies nibh, eleifend luctus libero mi eget metus. Phasellus mollis viverra eros, id tempus nulla fringilla sit amet. Nunc sit amet nulla in dolor imperdiet interdum. Sed facilisis, tortor in luctus sollicitudin, sapien metus pellentesque velit, in iaculis velit tortor in eros. In dapibus consequat arcu, ullamcorper consectetur ante imperdiet ut.</p>
-
-      <p>Moderator: Vincent Puig</p>
-    </div>
-
-    <div class="speaker col col-md-2">
-      <img src="http://lorempixel.com/100/100/people" class="rounded-circle" alt="">
-      <h4>Bob McCarty</h4>
-    </div>
-    <div class="speaker col col-md-2">
-      <img src="http://lorempixel.com/100/100/people" class="rounded-circle" alt="">
-      <h4>Elizabeth Jones</h4>
-    </div>
-    <div class="speaker col col-md-2">
-      <img src="http://lorempixel.com/100/100/people" class="rounded-circle" alt="">
-      <h4>Elizabeth Jones</h4>
-    </div>
-    <div class="speaker col col-md-2">
-      <img src="http://lorempixel.com/100/100/people" class="rounded-circle" alt="">
-      <h4>Bill Baskerville</h4>
-    </div>
-  </div>
+  <h2>Venue</h2>
 
 </div>

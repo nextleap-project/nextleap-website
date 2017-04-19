@@ -225,9 +225,16 @@ footer {
 
 .launch {
   .speaker {
-    h4 {
-      margin-top: 0.5em;
-      text-align : center;
-    }
+
+		margin-bottom: 1em;
+
+		h4 {
+			text-align: right;
+			font-weight: bold;
+		}
+
+		h5 {
+			margin-bottom: 0.5em;
+		}
   }
 }
