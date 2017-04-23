@@ -1,9 +1,9 @@
 ---
-title: 
+title: EuroUSEC 2017 - 2nd European Workshop on Usable Security
 
-date: 
+date: 2017-04-29
 
-location: 
+location: Paris, UPMC, Paris 6, Sorbonne Universités
 
 event_url: https://usec.cispa.uni-saarland.de/eurousec17/#program
 ---
