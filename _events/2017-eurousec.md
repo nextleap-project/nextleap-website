@@ -1,5 +1,5 @@
 ---
-title: EuroUSEC 2017 - 2nd European Workshop on Usable Security
+title: EuroUSec 2017 - 2nd European Workshop on Usable Security
 
 date: 2017-04-29
 
