@@ -1,5 +1,5 @@
 ---
-title: rightscon
+title: Rightscon
 
 date: 2017-03-29
 fulldate: 29-31.03.2017
