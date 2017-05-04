@@ -1,5 +1,5 @@
 ---
-title: autocrypt
+title: Autocrypt
 
 project_url: https://autocrypt.readthedocs.io/en/latest/
 
