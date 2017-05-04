@@ -1,5 +1,5 @@
 ---
-title: claimchain
+title: Claimchain
 
 icon: handshake-o
 
