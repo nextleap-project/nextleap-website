@@ -23,7 +23,7 @@ The following documents are starting points for a discussion and interpretation 
 - [Rapport du Conseil du Numérique](https://via.hypothes.is/http://www2.assemblee-nationale.fr/static/14/numerique/numerique_rapport.pdf#annotations:TrrkxjDSEeeuO5cxMQ9ztg)
 - [Digital Charta](https://via.hypothes.is/https://digitalcharta.eu/#annotations:ZEia6jDSEeef9Gsz7rO3qw)
 
-### Meta-categories
+### Categories
 
 - Type of right (legal category)
 - Title
