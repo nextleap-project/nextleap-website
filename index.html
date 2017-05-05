@@ -37,8 +37,15 @@ container: false
 
 			<p class="lead">Cryptography is changing the nature of human relationships and consequently our political environment. Until recently, cryptography has been regulated and controlled by governments and industry, but increasingly it is needed to secure our everyday lives, including our privacy.  What is the politics behind cryptographic standards, and can they decentralize in the future?  This evening session will bring together the philosopher Bernard Stiegler, Tunisian blogger activist Slim Amamou, and a panel of cryptographers: Phillip Rogaway, Moti Yung, Daniel Bernstein, and Tanja Lange.</p>
 
-			<p><a class="btn btn-primary" href="http://nextleap-launch.eventbrite.com">FREE non-mandatory registration (real name optional)</a> <a href="/events/launch.html">Complete programme</a></p>
+			<p><a class="btn btn-primary" href="http://nextleap-launch.eventbrite.com">FREE registration</a> <br /> <a href="/events/launch.html">Complete programme</a></p>
 
+			<p><emph>Note registration is non-mandatory, although encouraged due to space limits. The use of a real name or email is not required.</emph></p>
+
+
+
+
+			
+			
 		</div>
 
 		<div class="col col-md-6">
@@ -81,7 +88,15 @@ container: false
 
 			{% endfor %}
 
-			<h4>Other seminars</h4>
+			<h4>Future seminars</h4>
+
+		<!--	<ul>
+				{% for seminar in site.seminars %}
+					{% if seminar.highlight != true %}{% unless seminar.hide %}<li><strong>{{ seminar.start | date: "%d.%m" }}</strong> <a href="{{ seminar.url }}">{{ seminar.title }}</a></li>{% endunless %}{% endif %}
+				{% endfor %}
+			</ul>-->
+			
+			<h4>Past seminars</h4>
 
 			<ul>
 				{% for seminar in site.seminars %}
@@ -92,6 +107,7 @@ container: false
 		</div>
 	</div>
 </div>
+
 
 <div id="projects" class="container">
 	<h2>Projects</h2>
@@ -118,6 +134,15 @@ container: false
 	{% endfor %}
 
 </div>
+
+
+<div id="projects" class="container">
+  <h2>Code</h2>
+  <p>
+    Repositories of various deliverables worked on by NEXTLEAP are available on GitHub: <a href="@@"> </a>
+  </p>
+  
+  </div>
 
 <div class="container" id="testimonials">
 	<h2>Why and how does it matter?</h2>
@@ -169,8 +194,44 @@ container: false
 	</div>
 </div>
 
+
 <div class="container">
-	<h2>Other activities</h2>
+	<h2>Future Events with NEXTLEAP Participation</h2>
+
+<!--	<div class="row">
+
+	{% assign events = site.events | sort: 'date' | reverse %}
+
+	{% for event in events limit:4 %}
+
+	{% capture posttime %}{{ event.date | date: '%s'}}{% endcapture %}
+	{% assign content = event.content | strip_newlines %}
+
+	<div class="event col col-md-3">
+		<h4>
+
+		<a href="{{ event.event_url }}">{{ event.title }}</a>
+		<div class="info">
+			{{ event.location }} /
+			{% if event.fulldate %}
+				{{ event.fulldate }}
+			{% else %}
+				{{ event.date | date : "%d.%m.%Y" }}
+			{% endif %}
+		</div>
+		</h4>
+
+	</div>
+	{% endfor %}
+
+	</div> -->
+
+
+</div>
+
+
+<div class="container">
+	<h2>Past Events with NEXTLEAP Participation</h2>
 
 	<div class="row">
 
