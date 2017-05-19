@@ -23,6 +23,14 @@ The following documents are starting points for a discussion and interpretation 
 - [Rapport du Conseil du Numérique](https://via.hypothes.is/http://www2.assemblee-nationale.fr/static/14/numerique/numerique_rapport.pdf#annotations:TrrkxjDSEeeuO5cxMQ9ztg)
 - [Digital Charta](https://via.hypothes.is/https://digitalcharta.eu/#annotations:ZEia6jDSEeef9Gsz7rO3qw)
 
+#### Science articles
+
+- [Degrees of Freedom, Dimensions of Power](https://via.hypothes.is/https://nextleap.eu/netrights/articles/Benkler-Degrees_of_Freedom_Dimensions_of_Power_Final.pdf)
+- [Internet Bill of Rights](https://via.hypothes.is/https://nextleap.eu/netrights/articles/Internet Bill of rights-Musiani.pdf)
+- [Caring about the plumbing](https://via.hypothes.is/https://nextleap.eu/netrights/articles/Musiani_caring-about-the-plumbing.pdf)
+
+
+
 ### Categories
 
 - Type of right (legal category)
