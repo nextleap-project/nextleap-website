@@ -6,10 +6,10 @@ body_notitle: true
 container: false
 ---
 
-<div class="jumbotron jumbotron-fluid">
+<div class="jumbotron jumbotron-fluid" style="background-image: url('/img/pattern1.png') ">
 	<div class="container">
 	<div class="row">
-		<div class="fulltitle col col-md-4">
+		<div class="fulltitle col col-md-4 p-3" style="background-color: rgba(255,255,255,.9) ">
 			<div class="l1">NEXT</div>
 			<div class="l2">generation</div>
 			<div class="l3">techno-social and</div>
@@ -18,7 +18,7 @@ container: false
 			<div class="l6">Access and</div>
 			<div class="l7">Privacy</div>
 		</div>
-		<div class="col col-md-8">
+		<div class="col col-md-8 p-3" style="background-color: rgba(255,255,255,.8)">
 			<h2>In the wake of the Snowden revelations, public trust in the Internet has eroded.</h2>
 
 			<p>NEXTLEAP aims to create, validate, and deploy communication and computation protocols that can serve as pillars for a secure, trust-worthy, annotable and privacy-respecting Internet that ensures citizens fundamental rights. For this purpose NEXTLEAP will develop an interdisciplinary internet science of decentralisation that provides the basis on which these protocols will be built.</p>
@@ -28,129 +28,7 @@ container: false
 	</div>
 </div>
 
-<div id="events" class="container">
-	<h2>Our events</h2>
-
-	<div class="row">
-		<div class="col col-md-6">
-			<h3>UCL Carnival of Decentralization and Privacy <div class="info">05.22.2017 - UCL</div></h3>
-
-			<p class="lead">The UCL Information Security group is proud to host four distinguished lectures on the theme of anonymous communication, privacy and decentralization, as part of our involvement in the EU wide projects NEXTLEAP and PANORAMIX. The event is open to all, and free of charge.</p>
-
-			<p><a class="btn btn-primary" href="https://www.eventbrite.co.uk/e/ucl-carnival-of-decentralization-and-privacy-tickets-34509055514">FREE registration</a> <br /></p>
-	
-	
-	<p>
-	<strong>10:15.</strong> Welcome. Presentation of the UCL Information Security Group & project.<br />
-	        Speaker: Prof. George Danezis (University College London)
-	</p>
-	
-	<p><strong>10:15.</strong> “How Unique is Your .onion? An Analysis of the Fingerprintability of Tor Onion Services”<br />Speaker: Prof. Claudia Diaz (KU Leuven)</p>
-	<p><strong>11:45.</strong> "Optimal design of high-latency anonymous communications building blocks"<br />Speaker: Dr Carmela Troncoso (IMDEA Software Institute)</p>
-	<p><strong>14:00.</strong> “XYZ: Anonymous Messaging via Secure Multiparty Computation Speaker”<br />Speaker: Prof. Aggelos Kiayias (University of Edinburgh & IOHK)</p>
-	<p><strong>15:00.</strong> “ClaimChain: Public key infrastructure based on cross-referencing hash chains”<br />Speaker: Bogdan Kulynych (IMDEA Software Institute), and Marios Isaakidis (University College London)</p>
-	<p><strong>16:00.</strong> Project presentations on decentralization & privacy</p>
-	
-	
-		</div>
-
-		<div class="col col-md-6">
-			<h3>Decrypting Algorithms</h3>
-
-			{% for seminar in site.seminars reversed %}
-			{% if seminar.highlight == true %}
-				<h4>
-					{{ seminar.title }}
-					<div class="info">{{ seminar.date_pretty }}</div>
-				</h4>
-
-				<h5>Location:</h5>
-				{{ seminar.location_inline }}
-
-				{% if seminar.poster %}
-					<img class="img-fluid flyer" src="{{ seminar.poster }}" alt="">
-				{% else %}
-					<div class="speakers">
-						<h5>Speakers:</h5>
-
-						<ul>
-							{% for speaker in seminar.speakers %}
-							<li> {{ speaker }}</li>
-							{% endfor %}
-						</ul>
-					</div>
-
-					<div class="abstract">
-						<h5>Abstract:</h5>
-
-						<p>{{ seminar.abstract }}</p>
-					</div>
-				{% endif %}
-
-				<p><a href="{{ seminar.url }}" class="btn btn-primary">more information</a></p>
-
-				{% continue %}
-			{% endif %}
-
-			{% endfor %}
-
-			<h4>Future seminars</h4>
-
-		<!--	<ul>
-				{% for seminar in site.seminars %}
-					{% if seminar.highlight != true %}{% unless seminar.hide %}<li><strong>{{ seminar.start | date: "%d.%m" }}</strong> <a href="{{ seminar.url }}">{{ seminar.title }}</a></li>{% endunless %}{% endif %}
-				{% endfor %}
-			</ul>-->
-			
-			<h4>Past seminars</h4>
-
-			<ul>
-				{% for seminar in site.seminars %}
-					{% if seminar.highlight != true %}{% unless seminar.hide %}<li><strong>{{ seminar.start | date: "%d.%m" }}</strong> <a href="{{ seminar.url }}">{{ seminar.title }}</a></li>{% endunless %}{% endif %}
-				{% endfor %}
-			</ul>
-
-		</div>
-	</div>
-</div>
-
-
-<div id="projects" class="container">
-	<h2>Projects</h2>
-
-	{% for project in site.projects %}
-	<div class="row">
-		<div class="icon col col-md-1">
-			<span class="fa-stack fa-lg">
-				<i class="fa fa-circle fa-stack-2x"></i>
-				<i class="fa fa-{{ project.icon }} fa-stack-1x fa-inverse"></i>
-			</span>
-		</div>
-
-		<div class="col col-md-8">
-				<h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
-
-				<div class="abstract">
-					{{ project.abstract }}
-				</div>
-
-				<div class="learn_more"><a href="{{ project.url }}">Learn more</a></div>
-		</div>
-	</div>
-	{% endfor %}
-
-</div>
-
-
-<div id="code" class="container">
-  <h2>Code</h2>
-  <p>
-    Repositories of various deliverables worked on by NEXTLEAP are available on GitHub: <a href="https://github.com/nextleap-project/">https://github.com/nextleap-project/</a>
-  </p>
-  
-  </div>
-
-<div class="container" id="testimonials">
+<div class="container mb-5" id="testimonials">
 	<h2>Why and how does it matter?</h2>
 
 	<div class="row">
@@ -181,78 +59,102 @@ container: false
 	</div>
 </div>
 
-<div class="container">
-	<h2>Meet the NEXTLEAP team</h2>
-
+<div class="container mb-5">
 	<div class="row">
-
-		<div class="col col-md-6">
-			<p>NEXTLEAP combines expertise from across different disciplines in order to develop a set comprehensive answers to questions surrounding privacy and society. Our team is spread across Europe and includes specialists in computer science, formal protocol verification, sociology, social philosophy, cryptography and engineering.</p>
-		</div>
-
 		<div class="col col-md-6">
 			<figure class="figure">
 				<img class="img-fluid" src="img/static/phototeam.jpg" alt="NEXTLEAP Team group photo." />
-				<figcaption class="figure-caption text-center">Holger Krekel, Georges Danezis, Bruno Blanchet, Francesca Musiani, Carmela Troncoso, Karthikeyan Bhargavan, Marios Isaakidis and Harry Halpin (not the entire team).</figurecaption>
+				<figcaption class="small figure-caption text-center">Holger Krekel, Georges Danezis, Bruno Blanchet, Francesca Musiani, Carmela Troncoso, Karthikeyan Bhargavan, Marios Isaakidis and Harry Halpin (not the entire team).</figurecaption>
 			</figure>
 		</div>
 
-	</div>
-</div>
+		<div class="col col-md-6">
+			<h2>Meet the NEXTLEAP team</h2>
 
-
-<div class="container">
-	<h2>Future Events with NEXTLEAP Participation</h2>
-
-<!--	<div class="row">
-
-	{% assign events = site.events | sort: 'date' | reverse %}
-
-	{% for event in events limit:4 %}
-
-	{% capture posttime %}{{ event.date | date: '%s'}}{% endcapture %}
-	{% assign content = event.content | strip_newlines %}
-
-	<div class="event col col-md-3">
-		<h4>
-
-		<a href="{{ event.event_url }}">{{ event.title }}</a>
-		<div class="info">
-			{{ event.location }} /
-			{% if event.fulldate %}
-				{{ event.fulldate }}
-			{% else %}
-				{{ event.date | date : "%d.%m.%Y" }}
-			{% endif %}
+			<p>NEXTLEAP combines expertise from across different disciplines in order to develop a set comprehensive answers to questions surrounding privacy and society. Our team is spread across Europe and includes specialists in computer science, formal protocol verification, sociology, social philosophy, cryptography and engineering.</p>
 		</div>
-		</h4>
-
 	</div>
-	{% endfor %}
-
-	</div> -->
-
-
 </div>
 
-
 <div class="container">
-	<h2>Past Events with NEXTLEAP Participation</h2>
-
 	<div class="row">
+		<div class="col col-4">
 
-	{% assign events = site.events | sort: 'date' | reverse %}
+			<div class="mb-5">
+			<h3>Launch</h3>
 
-	{% for event in events limit:4 %}
+			<h4><small>The political Significance of Cryptography</small></h4>
 
-	{% capture posttime %}{{ event.date | date: '%s'}}{% endcapture %}
-	{% assign content = event.content | strip_newlines %}
+			<p class="small">Although historically cryptography has been restricted to government and industrial use, there has recently, after revelations of mass surveillance by Snowden, been increased interest in securing the everyday communications of citizens: Applications such WhatsApp, Telegram, Silence, Crypto.cat, Signal, and even PGP all claim to use end-to-end encrypted messaging to secure the content of communication. There has been discussion in France after the Bataclan attacks of banning end-to-end encryption, and in recent weeks, political parties have declared their desire to keep end-to-end encryption legal but have a backdoor or passwords available to the government. Rumors of hacking now dominate the news, and are claimed even influence elections. Given that cryptography has moved from an obscure branch of mathematical number theory to a real-world problem, the NEXTLEAP project is drawing together an interdisciplinary group of cryptographers, activists, and philosophers to discuss the political significance of cryptography.</p>
 
-	<div class="event col col-md-3">
-		<h4>
 
+      <ul class="list-group">
+      	<li class="list-group-item"><a href="/events/launch.html#keynote">Keynote by bernard stiegler</a></li>
+        <li class="list-group-item"><a href="/events/launch.html#panel1">Panel with cryptographers and activists</a></li>
+        <li class="list-group-item"><a href="/events/launch.html#panel1">Presentations by nextleap researchers</a></li>
+      </ul>
+
+			</div>
+
+			<h3>Seminars</h3>
+
+			<h4><small>2017 - Decrypting Algorithms</small></h4>
+			{% for seminar in site.seminars %}
+			<div class="mb-2">
+				<div class="text-muted small">{{ seminar.date_pretty }}</div>
+				
+				<a href="{{ seminar.url }}">{{ seminar.title }}</a>
+			
+				<ul>
+				{% for speaker in seminar.speakers %}
+					<li><small>{{ speaker }}</small></li>
+				{% endfor %}
+				</ul>
+
+			</div>
+			{% endfor %}
+		</div>
+
+		<div class="col col-4">
+
+			<div class="mb-5">
+			<h3>We are open source</h3>
+			
+			<p>Repositories of various deliverables worked on by NEXTLEAP are available as open source materials. Feel free to download, replicate, share, remix and provide us some feedbacks.</p>
+			<a class="btn btn-primary" href="https://github.com/nextleap-project/">Consult our github repository</a>
+  		</div>
+
+			<h3>Projects</h3>
+
+			{% for project in site.projects %}
+			<div class="mb-2">
+				<span class="fa-stack fa-lg">
+					<i class="fa fa-circle fa-stack-2x"></i>
+					<i class="fa fa-{{ project.icon }} fa-stack-1x fa-inverse"></i>
+				</span>
+
+				<a href="{{ project.url }}">{{ project.title }}</a>
+
+				<div>
+					<small>{{ project.abstract }}</small>
+				</div>
+
+			</div>
+			{% endfor %}
+		</div>
+
+		<div class="col col-4">
+			<h3>Events</h3>
+
+			{% assign events = site.events | sort: 'date' | reverse %}
+
+			{% for event in events limit:17 %}
+
+			{% capture posttime %}{{ event.date | date: '%s'}}{% endcapture %}
+			{% assign content = event.content | strip_newlines %}
+				<div class="mb-2">
 		<a href="{{ event.event_url }}">{{ event.title }}</a>
-		<div class="info">
+		<div class="text-muted small">
 			{{ event.location }} /
 			{% if event.fulldate %}
 				{{ event.fulldate }}
@@ -260,14 +162,14 @@ container: false
 				{{ event.date | date : "%d.%m.%Y" }}
 			{% endif %}
 		</div>
-		</h4>
+				</div>
+			{% endfor %}
+
+			<a class="btn btn-primary mt-2" href="/events.html">See other events</a>
+		</div>
+
 
 	</div>
-	{% endfor %}
-
-	</div>
-
-
 </div>
 
 <div id="partners" class="container">
