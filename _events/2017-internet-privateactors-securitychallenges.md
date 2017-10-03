@@ -2,7 +2,7 @@
 title: The Internet, Private Actors and Security Challenges
 
 date: 2017-10-09
-fulldate: 09-10.10.2017
+fulldate: 09.10.2017
 
 location: Paris
 
