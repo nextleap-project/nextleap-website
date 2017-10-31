@@ -50,7 +50,7 @@ The following documents are starting points for a discussion and interpretation 
 
 ## Should everyone be allowed to be anonymous?
 
-- [Argument mapping with Kialo](https://kialo.com)
+- [Argument mapping with Kialo](https://www.kialo.com/invited?token=005-3df7a9b3-5ac7-415f-9618-008cddadc540)
 
 ## Participate
 <!-- Begin MailChimp Signup Form -->
