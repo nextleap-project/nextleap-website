@@ -12,46 +12,70 @@ The goal of this project part is not to write a new legal contribution to net ri
 
 Our plan is thus to experiment with a contributive Forum over Net Rights and related Decentralized and crypto-based systems using text annotation, categorization protocols and contributive mindmapping. The first step is to collect previous contributions on Net Rights and related systems.
 
-If you want to participare, here is a [quick tutorial about hypothes.is](https://paper.dropbox.com/doc/nextleap-net-rights-contributions-Sga2XgERHwNINzaeVQNoK).
+<div class="row">
 
-### Documents
+<div class="col col-6">
 
-The following documents are starting points for a discussion and interpretation of a global framework of Net Rights. They embed the Web Annotation system proposed by [hypothes.is](https://hypothes.is). You can add page notes and annotations to the NextLeap group but don't forget to set the privacy setting to share them with the group.
+<h3>Collective annotations</h3>
 
-- [Web We Want](https://via.hypothes.is/https://webwewant.org/#annotations:AUceYjDSEeenMqMfh3FXBQ)
-- [The charter of human rights and principles for the internet](https://via.hypothes.is/http://internetrightsandprinciples.org/site/wp-content/uploads/2017/03/IRPC_english_4thedition-1.pdf#annotations:PYIH6DDSEeezA6MOqutTVA)
-- [Rapport du Conseil du Numérique](https://via.hypothes.is/http://www2.assemblee-nationale.fr/static/14/numerique/numerique_rapport.pdf#annotations:TrrkxjDSEeeuO5cxMQ9ztg)
-- [Digital Charta](https://via.hypothes.is/https://digitalcharta.eu/#annotations:ZEia6jDSEeef9Gsz7rO3qw)
+<p>If you want to participare, here is a <a href="https://paper.dropbox.com/doc/nextleap-net-rights-contributions-Sga2XgERHwNINzaeVQNoK">quick tutorial about hypothes.is</a>.</p>
 
-#### Science articles
+<h3 id="documents">Documents</h3>
 
-- [Degrees of Freedom, Dimensions of Power](https://via.hypothes.is/https://nextleap.eu/netrights/articles/Benkler-Degrees_of_Freedom_Dimensions_of_Power_Final.pdf)
-- [Internet Bill of Rights](https://via.hypothes.is/https://nextleap.eu/netrights/articles/Internet Bill of rights-Musiani.pdf)
-- [Caring about the plumbing](https://via.hypothes.is/https://nextleap.eu/netrights/articles/Musiani_caring-about-the-plumbing.pdf)
+<p>The following documents are starting points for a discussion and interpretation of a global framework of Net Rights. They embed the Web Annotation system proposed by <a href="https://hypothes.is">hypothes.is</a>. You can add page notes and annotations to the NextLeap group but don't forget to set the privacy setting to share them with the group.</p>
 
+<ul>
+<li><a href="https://via.hypothes.is/https://webwewant.org/#annotations:AUceYjDSEeenMqMfh3FXBQ">Web We Want</a></li>
 
+<li><a href="https://via.hypothes.is/http://internetrightsandprinciples.org/site/wp-content/uploads/2017/03/IRPC_english_4thedition-1.pdf#annotations:PYIH6DDSEeezA6MOqutTVA">The charter of human rights and principles for the internet</a></li>
 
-### Categories
+<li><a href="https://via.hypothes.is/http://www2.assemblee-nationale.fr/static/14/numerique/numerique_rapport.pdf#annotations:TrrkxjDSEeeuO5cxMQ9ztg">Rapport du Conseil du Numérique</a></li>
 
-- Type of right (legal category)
-- Title
-- Source/inspiration
-- Description
-- Other References
-- Interest for decentralized systems
-- Interest for encryption
-- Other technologies of interest 
-- Communities involved
-- Lobbies
-- Other comments
-- Tags
+<li><a href="https://via.hypothes.is/https://digitalcharta.eu/#annotations:ZEia6jDSEeef9Gsz7rO3qw">Digital Charta</a></li>
+</ul>
 
-### Examples
+<h4 id="sciencearticles">Science articles</h4>
 
-## Should everyone be allowed to be anonymous?
+<ul>
+<li><a href="https://via.hypothes.is/https://nextleap.eu/netrights/articles/Benkler-Degrees_of_Freedom_Dimensions_of_Power_Final.pdf">Degrees of Freedom, Dimensions of Power</a></li>
 
-- [Argument mapping with Kialo](https://www.kialo.com/invited?token=005-3df7a9b3-5ac7-415f-9618-008cddadc540)
+<li><a href="https://via.hypothes.is/https://nextleap.eu/netrights/articles/Internet Bill of rights-Musiani.pdf">Internet Bill of Rights</a></li>
 
+<li><a href="https://via.hypothes.is/https://nextleap.eu/netrights/articles/Musiani_caring-about-the-plumbing.pdf">Caring about the plumbing</a></li>
+</ul>
+
+<h3 id="categories">Categories</h3>
+
+<ul>
+<li>Type of right (legal category)</li>
+<li>Title</li>
+<li>Source/inspiration</li>
+<li>Description</li>
+<li>Other References</li>
+<li>Interest for decentralized systems</li>
+<li>Interest for encryption</li>
+<li>Other technologies of interest </li>
+<li>Communities involved</li>
+<li>Lobbies</li>
+<li>Other comments</li>
+<li>Tags</li>
+</ul>
+
+</div>
+<div class="col col-6">
+
+<h3>Argument mapping</h3>
+
+<p>Join our conversation on <a href="https://www.kialo.com/team?subdomain=DigitalRights">Kialo</a>.</p>
+
+<ul>
+	<li><a href="https://www.kialo.com/invited?token=005-3df7a9b3-5ac7-415f-9618-008cddadc540">Should everyone be allowed to be anonymous?</a></li>
+	<li><a href="https://www.kialo.com/invited?token=005-318b8112-dd2a-41ee-8c57-44ef9d4263d7">What is "good encryption"?</a></li>
+</ul>
+
+</div>
+</div>
+ 
 ## Participate
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
