@@ -18,6 +18,10 @@ Our plan is thus to experiment with a contributive Forum over Net Rights and rel
 
 <h3>Collective annotations</h3>
 
+<div class="pb-3 pt-3 text-center">
+<a href="https://taniki.github.io/netrights/" class="btn btn-primary">Consult our dashboard</a>
+</div>
+
 <p>If you want to participare, here is a <a href="https://paper.dropbox.com/doc/nextleap-net-rights-contributions-Sga2XgERHwNINzaeVQNoK">quick tutorial about hypothes.is</a>.</p>
 
 <h3 id="documents">Documents</h3>
