@@ -1,7 +1,7 @@
 ---
 title: Crowd-sourcing Net Rights 
 
-icon: map-o
+icon: envelope
 
 abstract: |
 
