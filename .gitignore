@@ -1,1 +1,6 @@
 _site/
+
+*.swp
+.ruby-version
+Gemfile
+Gemfile.lock

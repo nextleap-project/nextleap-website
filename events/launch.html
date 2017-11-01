@@ -46,11 +46,13 @@ junior_panel:
 
 ---
 
-<div class="jumbotron jumbotron-fluid">
-<div class="container">
-  <h2>The Political Significance of Cryptography</h2>
-  <h3>NEXTLEAP Project Launch Event</h3>
-  <h3>17h-21h May 5th + Petite Salle / <a href="http://centrepompidou.fr">Centre Pompidou</a></h3>
+<div class="jumbotron jumbotron-fluid" style="background: url(/img/pompidou.jpg) no-repeat center left fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
+<div class="container" style="background-color: rgba(255,255,255, 0.9); ">
+ 	<div class="pt-3">
+ 		<h2 class="">The Political Significance of Cryptography</h2>
+  	<h3>NEXTLEAP Project Launch Event</h3>
+  	<h3>17h-21h May 5th + Petite Salle / <a href="http://centrepompidou.fr">Centre Pompidou</a></h3>
+	</div>
 
   <div class="row">
     <div class="col col-md-7">
@@ -66,9 +68,9 @@ junior_panel:
     <div class="col col-md-4">
       <div class="card">
           <ul class="list-group list-group-flush">
-            <li class="list-group-item"><a href="#keynote">17:00 Keynote by Bernard Stiegler</a></li>
-            <li class="list-group-item"><a href="#panel1">18:00 Panel with cryptographers and activists</a></li>
-            <li class="list-group-item"><a href="#panel1">20:30 Short presentations of current researches </a></li>
+            <li class="list-group-item"><a href="#keynote">17:00 keynote by bernard stiegler</a></li>
+            <li class="list-group-item"><a href="#panel1">18:00 panel with cryptographers and activists</a></li>
+            <li class="list-group-item"><a href="#panel1">20:30 short presentations of current researches </a></li>
           </ul>
       </div>
     </div>
@@ -91,6 +93,14 @@ junior_panel:
       
     <h3 style="text-align: left;">Between Secrecy and Transparency</h3>
 
+		<!-- <div class="embed-responsive embed-responsive-1by1"> -->
+			<iframe 
+				class=""
+				src='https://ldt.iri.centrepompidou.fr/ldtplatform/ldt/embed/v3/iframe?content_id=a163f37a-46e9-11e7-b956-00145ea4a2be&project_id=302c8e64-46ea-11e7-aca3-00145ea4a2be&createannotation=True&createannotation_polemics=False&createannotation_annotation_types=chap,découpage&segments_annotation_types=chap,découpage&multisegments=True'
+				width='570' height='711'
+				seamless='seamless'
+			></iframe>
+		<!-- </div> -->
 
     <p>Digital networks are disrupting public space from the bottom up, first and foremost because they utilize publication technologies that completely reshape the relationship between public and private, in every sense of these terms. In so doing, they redefine from their very roots the questions, paradoxes and aporias that positive law – from ancient Greece and through Rome, canonical law, the Napoleonic code, and all the theories and philosophies of ‘natural law’ from the classical age to modern and contemporary critiques of law – has always sought to resolve in social terms.</p>
 
@@ -106,6 +116,7 @@ junior_panel:
 
 
     </div>
+
   </div>
 
   <h2 id="panel1">18:30 Panel</h2>
@@ -122,7 +133,18 @@ junior_panel:
   </div>
 
   <div class="col col-md-6">
-    {% for speaker in page.panel %}
+
+		<!-- <div class="embed-responsive embed-responsive-1by1"> -->
+			<iframe 
+				class="embed-responsive-item_"
+				src='https://ldt.iri.centrepompidou.fr/ldtplatform/ldt/embed/v3/iframe?content_id=34c734e2-46ea-11e7-aca3-00145ea4a2be&project_id=968ab99c-46ea-11e7-aca3-00145ea4a2be&createannotation=True&createannotation_polemics=False&createannotation_annotation_types=chap,découpage&segments_annotation_types=chap,découpage&multisegments=True'
+				width='570' height='711'
+				seamless='seamless'
+			></iframe>
+		<!-- </div> -->
+
+ 
+		{% for speaker in page.panel %}
       <div class="speaker">
         <h5>{{ speaker.name }}</h5>
 
@@ -142,7 +164,18 @@ junior_panel:
     </div>
 
     <div class="col col-md-6">
-      {% for speaker in page.junior_panel %}
+ 	
+			<!-- <div class="embed-responsive embed-responsive-1by1"> -->
+			<iframe 
+				class="embed-responsive-item_"
+				src='https://ldt.iri.centrepompidou.fr/ldtplatform/ldt/embed/v3/iframe?content_id=9980d47e-46ea-11e7-aca3-00145ea4a2be&project_id=0a2ec9ce-46eb-11e7-aca3-00145ea4a2be&createannotation=True&createannotation_polemics=False&createannotation_annotation_types=chap,découpage&segments_annotation_types=chap,découpage&multisegments=True'
+				width='570' height='711'
+				seamless='seamless'
+			></iframe>
+		<!-- </div> -->
+ 
+
+			{% for speaker in page.junior_panel %}
       <div class="speaker">
         <h5>{{ speaker.name }}</h5>
 

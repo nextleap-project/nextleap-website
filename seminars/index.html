@@ -1,0 +1,16 @@
+---
+title: Seminars
+
+layout: default2
+body_notitle: true
+container: true
+---
+
+<h2>Decrypting Algorithms (2017)</h2>
+
+{% for seminar in site.seminars %}
+<p>
+<strong>{{ seminar.start | date: "%d.%m" }}</strong> <a href="{{ seminar.url }}">{{ seminar.title }}</a><br/>
+{{ seminar.speakers | join: ", " }}
+</p>
+{% endfor %}
