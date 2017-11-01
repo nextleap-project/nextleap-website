@@ -3,14 +3,15 @@ title: Net Rights Contributions
 
 icon: map-o
 
-# danger: The content of this page is currently being written. Come back very soon!
+The goal of this part of the project is understand and popularize the emerging idea of net rights, as pioneered by the idea of a "magna carta" for the Web by Tim Berners-Lee. To achieve that aim, we set up a contributive categorization on Net Rights  to collect previous contributions on Net Rights and related systems. Afterwards, we will in combination with an MOOC (online course), discuss the ethics these net rights with a global audience.
+ 
 ---
 
 ## Net Rights
 
-The goal of this project part is not to write a new legal contribution to net rights but to analyze how they may be re-interpreted and modified by decentralized and crypto-based systems. To achieve that aim, we will set up a contributive categorization on Net Rights and augment existing corpus with links to related technologies and experts point of views.
+The goal of this part of the project is understand and popularize the emerging idea of net rights, as pioneered by the idea of a "magna carta" for the Web by Tim Berners-Lee. To achieve that aim, we set up a contributive categorization on Net Rights and augment existing corpus with links to related technologies and expert points of views.
 
-Our plan is thus to experiment with a contributive Forum over Net Rights and related Decentralized and crypto-based systems using text annotation, categorization protocols and contributive mindmapping. The first step is to collect previous contributions on Net Rights and related systems.
+ The first step is to collect previous contributions on Net Rights and related systems, and annotate them after holding seminars on related subjects. Afterwards, we will in combination with an MOOC (online course), discuss the ethics these net rights with a global audience. 
 
 <div class="row">
 
