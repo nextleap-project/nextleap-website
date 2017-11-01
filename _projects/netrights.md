@@ -2,7 +2,7 @@
 
 title: Crowd-sourcing Net Rights 
 
-icon: envelope
+icon: envelope-o
 
 abstract: |
 The goal of this part of the project is understand and popularize the emerging idea of net rights, as pioneered by the idea of a "magna carta" for the Web by Tim Berners-Lee. To achieve that aim, we set up a contributive categorization on Net Rights  to collect previous contributions on Net Rights and related systems. Afterwards, we will in combination with an MOOC (online course), discuss the ethics these net rights with a global audience.
