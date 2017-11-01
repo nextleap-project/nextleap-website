@@ -1,5 +1,5 @@
 ---
-title: High-Risk Usability 
+title: Developer and High-Risk User Studies 
 
 project_url: htt
 
@@ -10,7 +10,7 @@ abstract: |
  As secure messaging protocols face increasingly widespread deployment, differences between what developers believe about user needs and the actual needs of real-existing users could have an impact on the design of future technologies. Therefore, we are doing a detailed analysis of three projects and large-scale analysis of their users via interviews. 
 ---
 
-## High-Risk Usability
+## Developer and High-Risk User Studies
 
 As secure messaging protocols face increasingly widespread deployment, differences between what developers believe about user needs and the actual needs of real-existing users could have an impact on the design of future technologies. Therefore, we are doing a detailed analysis of three projects and large-scale analysis of their users via interviews. 
 
