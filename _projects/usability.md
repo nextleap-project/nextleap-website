@@ -1,9 +1,7 @@
 ---
-title: usability of encryption
+title: Understanding developers and high-risk users
 
 icon: universal-access
-
-danger: The content of this page is currently being written. Come back very soon!
 
 abstract: |
 
