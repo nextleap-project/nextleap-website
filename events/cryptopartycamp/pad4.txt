@@ -1,0 +1,459 @@
+PAD n°4 - Futurologie et données privée
+#CryptoPartyCamp Décrypte et Glitch ta vi(ll)e
+retour au PAD PRINCIPAL : https://semestriel.framapad.org/p/nextleap-mdo-participants
+
+
+INTRODUCTION
+
+
+Présentation
+Présentation à venir.
+
+
+Ressources
+
+    MindMapping (carte mentale) http://renkan.iri-research.org/renkan/p/b954c79f-bbe7-11e7-838b-366562363433?cowebkey=50f73ba3a2369a8497f560aa020a9995e8eba1fecf6b3a5b314f57e743f7d313
+
+
+
+Présents
+
+    Emmanuel , Transmedia Ready
+
+    Vincent IRI
+
+    Président IRI
+
+    Rouffi, CogLab
+
+    Alexandre L.
+
+    Animatrice : Geneviève (Futurologue) @Bouche2001
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DISCUSSION
+
+
+Historique
+
+En France, le savoir faire n'a jamais quitté le territoire (
+Les structures qui ont formé les personnes sont toujours présentes
+
+Le Design qui sert de support aux GaFa est un Design très 20e siècles
+Nous avons la capacité de Designer une structures beaucoup plus organique, et respectueuse de l'environnement et des personnes.
+
+18 mars prochain, mise en application dans l'UE de la GDPR / RGDP
+Règlement général sur la protection des données (RGPD) (en anglais : General Data Protection Regulation, GDPR)
+https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es
+
+Acteur de la protection de la vie privée
+
+    Startup http://aevatar.com/ / http://www.id3.eu/fr/ soutenu par l'état français
+
+    Henri Verdier / EtatLab https://www.etalab.gouv.fr/
+
+    France Connect https://franceconnect.gouv.fr/
+
+
+Enseignements de la 2 GM
+Intervention d'IBM, on ne peux pas faire la Shoa, ni le débarquement sans la technologie
+Course à la technologie militaire : une forme de guerre sans avenir
+Aujourd'hui : guerre d'influence (Soft Power), la technologie, et la santé
+
+Protectorat Américains pendant toute la durée du plan Marshal, nous a entravé pendant des années
+Cela nous as empêché de mener nos stratégies comme on l'a voulu au sein de l'Europe.
+Aujourd'hui, nous sommes beaucoup plus libre dans l'UE
+Économie planifiée (URSS) vs économie libérale (US), mais chacune avec une population contrôlée    
+
+
+GAFA et Ubérisation
+
+Google et les GAFA
+1.0 Époque Data Centric : je sais à s'intéresse chaque individu
+2.0 Réseaux sociaux, User Centric : 
+3.0 Sémantique, savoir dans quel état d'esprit il se trouve
+
+A priori cela n'a pas d'avenir. Dans la nature, il n'y a pas le droit de l'océan ou de la forêt par exemple.
+Les mécanismes centralisateurs sont mortifère !
+Quand l'Homme invente l'agriculture, il cherche à dompter la nature
+
+Exemple :
+
+    Catalogne : demande d'être autonome, en faisant partie de l'UE
+
+    Cloud/Datacenter vs Gouvernance
+
+    Gouvernement e-Estonie
+
+
+Ubérisation
+Pas d'investissement ni dans le capital humain, ni le capital productif, et prends 20% de com
+Les réflexions dans la Silicon Valley ne sont que technologiques, aucune sensibilité à l'impact socio-écologique
+Les décisions sont prises uniquement au Pentagone
+
+
+Lien de subordination de fait
+Ex : Deliveroo qui donne un sac et costume à ses coursiers
+
+En France, l'accès aux licences de Taxi est gratuit, mais régulé.
+Il s'est créé un marché de revente des licences d'exploitations
+Mécanisme d'un métier à charge qui c'est pervertis.
+Uber à été laissé dans un champ libre pour redynamiser le marché.
+
+Uber France est dans les même locaux que l'URSAFF à Paris.
+
+
+
+
+
+
+Gestion de la Donnée
+
+Santé
+DoctoLib
+On est obligé de passer par la plateforme, et renseigner beaucoup d'information privée et médicale avec le service
+Connait quel genre de médecin on fréquente, et à quelle fréquence, mais c'est tout
+
+La donnée à titre individuelle doit être protégée.
+Les données collectives doivent être un Bien Communs protégé
+Ne pas se laisser aspirer par les GAFA
+
+Aujourd'hui = uniquement curative (on soigne trop tôt ou trop tard)
+Prédictive, préventive et curative
+
+Banquier
+"Mon banquier sais plus de choses sur moi que moi même"
+Déontologie très forte sur la non exploitation des données
+
+
+Mention de Gaspard Koenig : La propriété de soi, le combat de la nouvelle génération ?
+TedX Paris 2016 http://www.tedxparis.com/gaspard-koenig-la-propriete-de-soi-le-combat-de-la-nouvelle-generation/
+
+
+
+Que faire de la donnée ?
+
+Structure de l'entité qui gère Doctolib
+
+Nécessiter de 
+
+    structure
+
+    débat publique
+
+Jusqu'ou on peut aller éthiquement et moralement
+
+
+La startup cherche à amasser à maximum de données
+Pour proposer une offre plus pertinente et augmenter son traffic.
+
+
+
+Autrefois, les places de marchés, considérées comme des biens communs, et géré par les Usagers eux-même
+
+
+Biens communs et Biens privés
+
+Valérie Peugeot et les Biens communs
+
+    Article http://www.culturemobile.net/visions/valerie-peugeot-avenir-communs
+
+    Définir les communs - Valérie Peugeot https://www.youtube.com/watch?v=krNNzxqYqEo
+
+
+Le débat de la privatisation de France Télécom
+Fonctions régaliennes : éducation, transport, santé géré par le gouvernement
+Nous payons des impôts, pour financer et accéder à ces services, qui sont de plus en plus privatisé
+
+
+Justice
+Disruption de la justice française par les cabinets d'arbitrage
+Ajout d'algorithmique d'IA Faible
+
+Google à mis en place de l'IA Faible depuis des années
+--> Problématique : appauvrissement des gens, enfermement dans des stéréotypes
+
+Les juges en France, aujourd'hui, ne sont pas 
+Justice prédictive et préventive
+
+
+L'informaticien devient quelqu'un qui programme des algorithmes sans prendre en compte la lois.
+Circuit OpenLaw aujourd'hui pour sensibiliser et travailler sur ces sujets, mise en place d'un "Ordre des informaticiens"
+http://openlaw.fr/
+
+Problématiques
+
+    Gros travail de numérisation de tous les contrats !
+
+    Les Codes de justices aujourd'hui des giganstesques et bouré d'anomalie. Les barreaux ne peuvent plus tout connaitre
+
+
+Quid des conditions d'utilisations ?
+
+
+
+
+Cryptage des données
+
+Comment 
+Crypto-monnaies, serveur sécurisé comme Télégram
+Avènement de la blockchain ?
+
+
+Comment faire des systèmes efficace décentralisé
+
+Revenu de base universel
+
+Mise au point de Orange Bank, en Afrique
+Comparatif avec des "Baton de taille"
+Capacité à venir d'y intégrer d'autres types de monnaies à venir
+
+
+
+
+
+Futurologue
+Prospectiviste
+Prévisionniste
+Medium
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+RESTITUTION
+
+
+
+
+Présentation du RenKan (carte mentale) de l'atelier :
+http://renkan.iri-research.org/renkan/p/b954c79f-bbe7-11e7-838b-366562363433?cowebkey=50f73ba3a2369a8497f560aa020a9995e8eba1fecf6b3a5b314f57e743f7d313#?view=795.661,293.187,0.762
+
+
+Doctolib suis la tendance à la centralisation.
+Intérêt de la centralisation : IA
+
+Lien de subordination chez Uber.
+
+    Article Armand Actuelle
+
+
+Automatisation des tâches 
+
+
+
+On s'éloigne de la structure du vivant, sa diversification, pour aller vers la centralisation des informations pour les automatiser.
+
+Centralisation : perte de diversité --> baisse créativité / culture / 
+
+
+Aujourd'hui : guerre d'influence (Soft Power), la technologie, et la santé
+
+
+Réaction à la centralisation abusive :
+Opposition structure centralisé avec ce qui se passe en Catalogne aujourd'hui, actualité géo-politique
+
+Qu'est-ce que le bien commun ?
+Disparition du domaine publique
+
+Cryptage
+entraine une surconsomation d'énérgie
+On le vois dans la blockchain
+
+
+    Gouvernement e-Estonie
+
+
+
+
+Documentaire
+Mention du film Nothing to Hide projeté en parallèle dans la salle Star Trek
+
+    https://www.nothing-to-hide.fr/
+
+    https://vimeo.com/193515863
+
+
+
+
+Applications
+Messageries instantanées cryptée
+
+Analyse prédictive, aussi utiilsé dans le monde de la police scientifique
+Livre : Drone Land de Tom Hillenbrand
+https://www.babelio.com/livres/Hillenbrand-Drone-Land/912210
+
+
+NextLeap
+Gros problème : longévité du cryptage (tout garder crypté, jusqu'à une certaine date, effacé, ...)
+http://nextleap.eu/
+
+
+Comment concevoir des systèmes décentralisé et crypté ?
+Blockchain
+
+    Entropie : éviter un désordre total du système informationnel (surconsommation d'énergie)
+
+    On passe d'une structure pyramidale à une structure organique (Blockchain proche du P2P)
+
+
+
+
+
+Google gagne en moyenne 56€/an/personnes
+
+
+Accès aux données personnelles 
+
+RGDP
+
+    La données personnelle doit être traitée avec le respect de la personne.
+
+    La possibilité aux citoyens de pouvoir accéder à ses propres données
+
+
+Open Data
+Données généralement demandées par des start-up, pour proposer de nouveaux services
+
+Mention de Google history
+https://myactivity.google.com/myactivity
+Oeuvre en art numérique Albertine Monier http://www.albertinemeunier.net/
+
+NoCript ou youmatric
+Critéo https://www.criteo.com/
+
+
+
+
+Design Graphique (UX / UI)
+Les interfaces sont conçuent pour que l'on accepte des choses sans que l'on s'en rende compte.
+On accepte de nombreuses choses sans s'en rendre compte.
+
+
+
+Wikipédia
+"Une communauté sera toujours plus experte que le plus expert des exerts."
+
+
+
+Synthèse @Rouffi (point de vue perso)
+
+
+    GAFA = les industriels de notre époque (automobile, électroménager, ...)
+
+
+    Innovation constante des GAFA, et capacité à améliorer sans cesses.
+
+    L'ergonomie et la diversité des services est très importante
+
+    M. Tout le monde utilise ce qu'il y a de plus simple pour lui (société consumériste)
+
+
+    On parle de système pyramidale pour les GAFA, mais qui sont internationaux.
+
+    C'est la même chose dans les gouvernements, limité à leur frontières
+
+    l'UE met en place des choses, mais nous ne sommes pas tous égaux (Chine, ..)
+
+
+    Conditions d'utilisations différentes.
+
+    Au final, les institutions se transforment également en plateforme (état-plateforme)
+
+    Et proposent des données en Open Data, qui sont réutilisés par les prochaines startup
+
+
+    Faut-il un combat constant entre les GAFA et les services publiques ?
+
+    Est-ce que tout et blanc ou noir ?
+
+
+    GAFA les enfants des grandes oreilles (stratégie militaire et géopolitique)
+
+    Ce n'est pas aussi des personnes qui souhaitent aller de l'avant ?
+
+
+    Privacy by Design, rôle des Designer de sensibiliser les personnes (Design)
+
+    RGPD Règlement général sur la protection des données (Sécurité)
+
+    Open Data pour nourrir la connaissance, la prédiction (IA)
+
+
+
+
+
+
+Economie de la contribution
+Ubérisation, centralisatrice
+Mise en place d'une économie de la contribution décentralisée, sous la forme de Coopérative
+
+Projet Territoire apprenant contributif, de la Chaire de recherche contributive, avec Bernard Stiegler
+Ex : Projet Pleine Commune
+Ex : Monnaies locales
+
+Principe du Revenu Contributif, différent du Revenu Universel.
+Favorise la création de mise en commun et lutte contre la tendance à la centralisation (entropie)
+
+
+
+La pyramide de Maslow https://fr.wikipedia.org/wiki/Pyramide_des_besoins
+
+Pouvoir d'achat
+La plupart des gens ne se sentent pas concerné par ces questions
+Ils consomment en abondance, en utilisant ce qu'il y a de plus simple pour eux
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CONCLUSION
+
+Conclusion de la futurologue
+Mutation sociétale, accélérée par 
+- l'environnement 
+- progrès technologiques avec évolution très rapide
+
+Conclusion de Vincent
+Le débat est ouvert et peut continuer sur la plateforme NextLeap
+"Le web que nous voulons, maîtrisé par ses utilisateurs et non la centralisation" Tims Bernard Lee
+
+
+
+
+OUTILS
+
+
+Disconnect (VPN)
+
+    https://disconnect.me/
+
+
+Thor https://www.torproject.org/
+
+Hally
+
+    https://oracledu.net/
+
+    https://linc.cnil.fr/fr/
+
+    http://mashable.france24.com/tech-business/20170906-hally-oracle-net-influence-algorithmes-cnil
+
+    algorithmes sont débattus à l'occasion de la nouvelle mission de la CNIL sur l'éthique du numérique, le laboratoire d’innovation numérique de la CNIL (LINC) "invite les internautes à s'interroger sur la manière dont les algorithmes les calculent lorsqu’ils naviguent sur le Web".
+
+
+Cozy Cloud : https://cozy.io/fr/
+
+
+
+
+
+
