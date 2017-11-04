@@ -4,3 +4,5 @@ _site/
 .ruby-version
 Gemfile
 Gemfile.lock
+
+.sass-cache
