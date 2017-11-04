@@ -11,8 +11,10 @@ container: true
     <h2>NEXTLEAP Videos and other resources.</h2>
 
     {% for res in resources %}
-    <h3>{{ res.title }}, {{ res.author }}</h3>
-    <p>{% if res.fulldate %}<em>{{ res.fulldate }}</em> {% endif %}{{ res.content }}{% if res.res_url %} <strong><a target="_blank" href="{{ res.res_url }}">View resource</a></strong>{% endif %}</p>
+    <div id="res_{{ res.title | slugify }}">
+      <h3>{{ res.title }}, {{ res.author }}</h3>
+      <p>{% if res.fulldate %}<em>{{ res.fulldate }}</em> {% endif %}{{ res.content }}{% if res.res_url %} <strong><a target="_blank" href="{{ res.res_url }}">View resource</a></strong>{% endif %}</p>
+    </div>
     {% endfor %}
 
 
