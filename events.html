@@ -5,15 +5,14 @@ container: true
 ---
 
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% assign events = site.events | sort: 'date' | reverse %}
 
 <div id="events" class="row page">
   <div class="col col-md-3">
 
   <h2>Upcoming Events</h2>
 
-  {% assign events = site.events | sort: 'date' %}
-
-  {% for event in events %}
+  {% for event in events reversed %}
   {% capture posttime %}{{ event.date | date: '%s'}}{% endcapture %}
 
   {% if posttime > nowunix %}
@@ -32,8 +31,6 @@ container: true
   {% endfor %}
 
   <h2>Past Events</h2>
-
-  {% assign events = site.events | sort: 'date' %}
 
   {% for event in events %}
 
@@ -60,8 +57,6 @@ container: true
 
   <div id="highlights" class="col col-md-9">
     <h2>highlights&nbsp;&amp;&nbsp;Events</h2>
-
-    {% assign events = site.events | sort: 'date'%}
 
     {% for event in events %}
 
