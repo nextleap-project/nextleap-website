@@ -8,3 +8,5 @@ location: Stanford, United States
 
 event_url: http://www.iacap.org/conferences/iacap-2017/
 ---
+
+International Association for Computing and Philosophy Conference

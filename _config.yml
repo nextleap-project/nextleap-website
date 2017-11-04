@@ -5,6 +5,8 @@ collections:
     output: true
   events:
     output: true
+  resources:
+    output: true
 
 defaults:
   -

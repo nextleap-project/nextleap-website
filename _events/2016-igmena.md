@@ -8,3 +8,5 @@ location: Tunis, Tunisia
 
 event_url: https://www.igmena.org/Summit-2016
 ---
+
+Internet Governance Middle East (IGMena) Summit

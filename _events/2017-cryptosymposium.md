@@ -8,3 +8,5 @@ location: Amsterdam
 
 event_url: https://cryptoactionsymposium.wordpress.com/
 ---
+
+CryptoAction Symposium
