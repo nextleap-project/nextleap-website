@@ -1,0 +1,363 @@
+#CryptoPartyCamp (27-28-29 oct. 2017) Décrypte et Glitch ta vi(ll)e
+> accès PAD PRINCIPAL : inscrivez le n° & titre de votre PAD le cas échéant : https://semestriel.framapad.org/p/nextleap-mdo-participants  
+
+
+PAD n°5 : Autodéfense numérique et RGPD
+
+
+Introduction
+
+
+Présents
+
+    Karine
+
+    @Rouffi, Creative Technologist af93 et CogLab
+
+    Philippe, XP de coursier à vélo et à déclencher un intérêt à l'algorithmique et Open Source, premier coursier Take It Easy de France
+
+    Samuel, consultant marketing dans une PME
+
+    Adeline, consultant marketing dans un groupe
+
+    Samuel et Adeline préparent une plateforme de vente d'oeuvre d'art personnalisées en créant de vraies rencontres, plutôt que passer par des algorithmes
+
+    TK, sociologue du numérique et activité sur les droit du numérique
+
+    Johan (https://twitter.com/JohanRicher), pédagogie outils numériques, ancien d'Etalab
+
+    http://ogptoolbox.org/
+
+    http://opendemocracynow.net/
+
+    Assemblée virtuelle Grand Voisins, http://reseau.lesgrandsvoisins.org/, web sémantique, wikidata, DBpedia
+
+    Alexandre, Designer d'interaction, s'intéresse au Game Design (prototypage de règles, analyse du comportement), Jeux vidéo indépendant
+
+    Valentin, Designer à la Maison des Artistes
+
+
+
+
+Réflexions d'hier soir
+
+    Ooni, PirateBox, raspberry pi et autres
+
+
+    Outils décentralisés
+
+    IPFS/ZERONET
+
+    https://ipfs.io/
+
+    https://zeronet.io/ 
+
+    https://medium.com/a-weekend-with/a-weekend-with-ipfs-9f2647fc231
+
+    Scuttlebot
+
+    https://scuttlebot.io/
+
+    Guide d'autodéfense numérique
+
+    https://guide.boum.org/
+
+
+    Événement régulier 
+
+    Mettre en place une mailing liste et organiser des rencontres régulière
+
+    A l'image de l'Agenda du libre https://www.agendadulibre.org/
+
+    Thèmes : Décentralisation, Privacy, Donnée, PirateBox
+
+    Framalist : création de la mailing list https://framalistes.org/sympa/subscribe/adn / adn@framalistes.org
+
+
+    Serveur autohébergé
+
+    https://yunohost.org/#/
+
+    https://chatons.org/
+
+
+
+
+
+
+Discussion
+
+
+Tour de table
+
+Glitch = bug graphique / visuel
+Beaucoup d'activité autour des jeux vidéos notamment
+Ex GTA : https://fr.wikipedia.org/wiki/Grand_Theft_Auto
+
+Création d'une communauté promouvant l' "Auto Défense Numérique"
+Inscription à la mailing list https://framalistes.org/sympa/subscribe/adn / adn@framalistes.org
+
+Groupe de discussion Télégram https://t.me/joinchat/CxsRuw9vK5m2zK2OFpM4dw
+
+
+
+Campagne d'intérêt général vs Education populaire
+
+Exemples de campagnes
+
+    Campagne en novembre contre le Tabac #NovembreSansTabac
+
+    Mention des campagnes de la sécurité routière
+
+    Mangerbouger.fr 
+
+
+Remise en question de ce type de campagne, car Nudge Power
+Plutôt faire appel au #LibreArbitre #EspritCritique en informant les gens avec l'éducation populaire
+
+"Au fait, savez vous que le libre existe ?"
+Aujourd'hui, le grand public ne connais pas toutes les initiatives autour du libre
+Uniquement les personnes activistes ou qui ont eu une mauvaise expérience !
+Pas de rencontres, sauf lors de Nuit Debout
+
+
+Conseil du numérique https://cnnumerique.fr/
+Dernière recommandation, création de la filière "Humanité Numérique" et intégration au cursus dès l'école
+
+Libre vs Propriétaire : Concurrence déloyale ?
+On ne peut pas demander à Open Office d'être aussi performant de la suite Office par exemple.
+Framasoft ne cherche pas à être en concurrence de Google :
+
+    si tout le monde utilise ses outils, il y aura des besoin énorme en serveur, et se sera centralisé
+
+    Aujourd'hui ils cherchent à faciliter l'installation des outils alternatif sur des serveurs privés
+
+
+
+
+Art numérique et transmédia
+
+Utilisation de l'art numérique pour véhiculer ces sujets
+
+Grégory Chatonsky
+
+    Exemple  http://chatonsky.net/mind/
+
+    Il y a plus de choses qui naissent dans Internet aujourd'hui, que de personne pour le regarder
+
+
+Proposition de Karine
+Préparation de la création d'une oeuvre collaboratif, diffusée pendant le festival de Woodstock en aout 2019
+Message socio-culturel
+Contexte des 50 ans du festival de Woostock, dans le même contexte de mai 69
+Avec la présence des 3 générations : enfant, parents et grand parents, rassemblée pour la première fois
+
+AD Block en VR !
+
+
+Connect et Single Sign On
+Il n'y a pas de Sigle Sign On sur Framasoft, car ça serait trop coûteux, trop centralisateur et pas aussi sécurisé que les GAFAM
+Initiative de Mozilla (), FranceConnect
+
+Exemple
+
+    Rise Up
+
+    Fingboard https://pingboard.com/
+
+
+
+Témoignage de Romain avec le CogLab
+Mise en place d'outil libre, dans le cadre de l'association qui se veut ouverte
+
+Freins
+
+    Ergonomie des outils
+
+    L'utilisation d'un Single Sign On
+
+    Disponible sur mobile
+
+    Apprentissage des nouveaux outils
+
+
+Utilisation des espaces ultra sécurisé de Google et Facebook.
+Il n'y a pas de compromis aujourd'hui dans l'utilisation d'internet.
+
+On ne peux pas aujourd'hui, installer un serveur auto-hébergé et utiliser un identifiant unique
+En quelques semaines, on peut se faire hacker
+
+Initiative venant des FAI alternatif ou Free ou OVH ?
+
+    Exemple de La brique internet, hébergeur et box indépendente https://www.developpez.com/actu/93049/La-Brique-Internet-un-simple-boitier-VPN-couple-a-un-serveur-peut-il-resoudre-les-problemes-lies-a-l-internet/
+
+
+
+
+Témoignage de coursier
+
+Mentions de CoopCycle https://coopcycle.org/fr/
+Comment créer de la solidarité entre les travailleurs génération Uber, sans les mettres en danger et montrer leur activisme
+
+Problématique des harcélement, mise en pression, de manière anonyme
+Ex: un fichier .jpeg n'est pas valable dans un tribunal, il faut un fichier .raw !
+
+Les services cherchent à individualiser les personnes, pour éviter le soutiens
+
+Inspiration des outils des lanceurs d'alertes
+Un nouvel outil, plus puissant que WikiLeaks, est en cours de création (https://securedrop.org/ mentionné par Clara)
+
+
+Bot = Evil ?
+
+Mention de Libre Taxi http://libretaxi.org/
+Un bot, disponible sur Telegram !
+
+Danger des Bots, ou la discussion nous parait hyper naturelle.
+Ex des Bot Facebook ou le service BackMarket https://www.backmarket.fr
+
+Les sites deviennent très friendly, voir trop, comme si on nous abordait dans la rue par une personne qui semble gentile.
+Il devient très facile pour ces services, de récolter des informations personnelles !
+A la place de remplir un long formulaire, ou un profil, ou l'on se pose la question de l'information que l'on souhaites donner, et la manière de se présenter
+Dans un bot, on discute, on donne des informations progressivement et au fur et à mesure, de manière plus authentique
+
+Le rôle des Designers.
+Émergence en France, timidement, du Design Ethics, et le Privacy by Design.
+Problématique du métier de Designer UX, de plus en plus indépendant (freelance) et difficulté à trouver du boulot
+
+
+
+
+
+Outils
+
+    Outils gouvernementaux
+
+    Annotation de texte https://web.hypothes.is/
+
+    https://drafts.dc.gov/docs/draft-open-data-policy
+
+    https://www.pubpub.org/ utilisé pour la ville de Mexico
+
+    https://drafts.dc.gov/docs/draft-open-data-policy
+
+
+    Communauté
+
+    France Insoumise https://lafranceinsoumise.fr/
+
+    Coopérative des acteurs de la médiation numérique https://lamednum.coop/
+
+    AG le 16 novembre à Lille
+
+    Etude sur Démocracy OS qui vient de se terminer https://osp-dos-mednum.herokuapp.com/
+
+    Assises de la Médiation numérique, comment la MedNum doit intervenir
+
+
+    Framasoft
+
+    Contributopia https://framablog.org/2017/10/09/contributopia-degoogliser-ne-suffit-pas/
+
+    FramaLibre, l’annuaire des logiciels libres de l’association Framasoft https://framalibre.org/
+
+
+    Marketing Open Source
+
+    Newsletter https://mailtrain.org/
+
+
+    CNIL
+
+    RGPD Guide https://www.cnil.fr/fr/reglement-europeen-sur-la-protection-des-donnees-ce-qui-change-pour-les-professionnels
+
+    RGPD DataViz https://www.cnil.fr/fr/reglement-europeen-protection-donnees/dataviz
+
+
+    Design
+
+    Privacy by Design
+
+    Simplification des utilisations des conditions d'utilisations https://tosdr.org/
+
+    Nudges / Biais cognitifs / Dark Pattern
+
+
+    Nudge
+
+    Série d'article sur Internet Actu
+
+     http://www.internetactu.net/2017/06/27/ou-en-est-le-nudge-13-tout-est-il-nudgable/
+
+
+    Outils de prise de notes
+
+    Framapad est basé sur EtherPad
+
+    Aujourd'hui https://hackmd.io/ beaucoup utilisé, à la place de HackPad repris par DropBox / Paper
+
+
+    Analyse de texte
+
+    https://web.hypothes.is/
+
+
+    Outils d'auto-hébergement
+
+    https://cloudron.io/
+
+    https://sandstorm.io/
+
+
+    Communauté / Lanceur d'alerte
+
+    https://securedrop.org/
+
+    https://wikileaks.org/
+
+    https://diaspora-fr.org/
+
+
+    Discussion
+
+    Télégram https://telegram.org/
+
+    https://wiki.jabberfr.org/PubSub
+
+
+
+
+
+
+Atelier Pirate Box
+Documentation sur https://pad.apreslanu.it/CwNmA4FMEMXBaATAZgKwDN7AEbhPATkgMXgAZJJUIATVG8ARkaA=#
+
+
+
+
+Prise en main de Pirate Box
+
+Documentation
+
+    Site officiel https://piratebox.cc/
+
+    Installation sur Raspberry PI https://piratebox.cc/raspberry_pi:diy
+
+
+
+Mention du 2e Hackathon de la BNF
+
+    http://www.bnf.fr/fr/evenements_et_culture/auditoriums/f.hackathon_2017.html?seance=1223928195139
+
+    http://gallica.bnf.fr/blog/25102017/hackathon-bnf-2e-edition
+
+
+
+
+
+
+Prochaine étape : réunion groupe Autodéfense numérique
+=> https://hackmd.io/s/rklFPtQRZ
+
+
+
