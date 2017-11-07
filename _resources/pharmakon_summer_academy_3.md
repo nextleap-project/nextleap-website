@@ -4,5 +4,6 @@ author: Geert Lovink
 fulldate: August 4-17, 2016
 date: 2016-08-04
 res_url: https://youtu.be/lsk-zvxeqbE
+res_type: video
 ---
 “About platform theory. Discussion with Nick Srnicek”
