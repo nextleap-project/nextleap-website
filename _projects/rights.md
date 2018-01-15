@@ -7,14 +7,14 @@ icon: id-badge
 
 abstract: |
   The goal of this part of the project is understand and popularize the emerging idea of net rights, as pioneered by the idea of a "magna carta" for the Web by Tim Berners-Lee. To achieve that aim, we set up a contributive categorization on Net Rights  to collect previous contributions on Net Rights and related systems. Afterwards, we will in combination with an MOOC (online course), discuss the ethics these net rights with a global audience.
-  
+
 ---
 
 ## Crowdsourcing Net Rights
 
 The goal of this part of the project is understand and popularize the emerging idea of net rights, as pioneered by the idea of a "magna carta" for the Web by Tim Berners-Lee. To achieve that aim, we set up a contributive categorization on Net Rights and augment existing corpus with links to related technologies and expert points of views.
 
- The first step is to collect previous contributions on Net Rights and related systems, and annotate them after holding seminars on related subjects. Afterwards, we will in combination with an MOOC (online course), discuss the ethics these net rights with a global audience. 
+ The first step is to collect previous contributions on Net Rights and related systems, and annotate them after holding seminars on related subjects. Afterwards, we will in combination with an MOOC (online course), discuss the ethics these net rights with a global audience.
 
 <div class="row">
 
@@ -40,6 +40,9 @@ The goal of this part of the project is understand and popularize the emerging i
 <li><a href="https://via.hypothes.is/http://www2.assemblee-nationale.fr/static/14/numerique/numerique_rapport.pdf#annotations:TrrkxjDSEeeuO5cxMQ9ztg">Rapport du Conseil du Numérique</a></li>
 
 <li><a href="https://via.hypothes.is/https://digitalcharta.eu/#annotations:ZEia6jDSEeef9Gsz7rO3qw">Digital Charta</a></li>
+
+<li><a href="https://via.hypothes.is/https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">Wikipedia page on the General Data Protection Regulation (GDPR)</a></li>
+
 </ul>
 
 <h4 id="sciencearticles">Science articles</h4>
@@ -79,7 +82,7 @@ The goal of this part of the project is understand and popularize the emerging i
 
 </div>
 </div>
- 
+
 ## Participate
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
