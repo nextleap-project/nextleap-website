@@ -55,18 +55,14 @@ The goal of this part of the project is understand and popularize the emerging i
 <h3 id="categories">Categories</h3>
 
 <ul>
-<li>Type of right (legal category)</li>
-<li>Title</li>
-<li>Source/inspiration</li>
-<li>Description</li>
-<li>Other References</li>
-<li>Interest for decentralized systems</li>
-<li>Interest for encryption</li>
-<li>Other technologies of interest </li>
-<li>Communities involved</li>
-<li>Lobbies</li>
-<li>Other comments</li>
-<li>Tags</li>
+<li>Decentralization</li>
+<li>Encryption</li>
+<li>Net rights</li>
+<li>Activism</li>
+<li>Industrial lobby</li>
+<li>Surveillance</li>
+<li>Political threat</li>
+<li>Technology</li>
 </ul>
 
 </div>
