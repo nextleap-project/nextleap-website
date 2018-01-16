@@ -43,6 +43,8 @@ The goal of this part of the project is understand and popularize the emerging i
 
 <li><a href="https://via.hypothes.is/https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">Wikipedia page on the General Data Protection Regulation (GDPR)</a></li>
 
+<li><a href="https://digital-society-forum.orange.com/fr/les-forums/100-forum-vie_privee_et_donnees_personnelles">Private Life and Personal data, Blog from Orange Labs (in French)</a></li>
+
 </ul>
 
 <h4 id="sciencearticles">Science articles</h4>
