@@ -30,31 +30,67 @@ The goal of this part of the project is understand and popularize the emerging i
 
 <h3 id="documents">Documents</h3>
 
-<p>The following documents are starting points for a discussion and interpretation of a global framework of Net Rights. They embed the Web Annotation system proposed by <a href="https://hypothes.is">hypothes.is</a>. You can add page notes and annotations to the NextLeap group but don't forget to set the privacy setting to share them with the group.</p>
+<p>The following documents are starting points for a discussion and interpretation of three different Net Rights frameworks (global, European and French). They embed the Web Annotation system proposed by <a href="https://hypothes.is">hypothes.is</a>. You can add page notes and annotations to the NextLeap group but don't forget to set the privacy setting to share them with the group.</p>
+
+<h4 id="globalframework">Global Framework</h4>
 
 <ul>
 <li><a href="https://via.hypothes.is/https://webwewant.org/#annotations:AUceYjDSEeenMqMfh3FXBQ">Web We Want</a></li>
 
 <li><a href="https://via.hypothes.is/http://internetrightsandprinciples.org/site/wp-content/uploads/2017/03/IRPC_english_4thedition-1.pdf#annotations:PYIH6DDSEeezA6MOqutTVA">The charter of human rights and principles for the internet</a></li>
 
-<li><a href="https://via.hypothes.is/http://www2.assemblee-nationale.fr/static/14/numerique/numerique_rapport.pdf#annotations:TrrkxjDSEeeuO5cxMQ9ztg">Rapport du Conseil du Numérique</a></li>
-
 <li><a href="https://via.hypothes.is/https://digitalcharta.eu/#annotations:ZEia6jDSEeef9Gsz7rO3qw">Digital Charta</a></li>
 
-<li><a href="https://via.hypothes.is/https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">Wikipedia page on the General Data Protection Regulation (GDPR)</a></li>
-
-<li><a href="https://digital-society-forum.orange.com/fr/les-forums/100-forum-vie_privee_et_donnees_personnelles">Private Life and Personal data, Blog from Orange Labs (in French)</a></li>
-
-</ul>
-
-<h4 id="sciencearticles">Science articles</h4>
-
-<ul>
 <li><a href="https://via.hypothes.is/https://nextleap.eu/netrights/articles/Benkler-Degrees_of_Freedom_Dimensions_of_Power_Final.pdf">Degrees of Freedom, Dimensions of Power</a></li>
 
 <li><a href="https://via.hypothes.is/https://nextleap.eu/netrights/articles/Internet Bill of rights-Musiani.pdf">Internet Bill of Rights</a></li>
 
 <li><a href="https://via.hypothes.is/https://nextleap.eu/netrights/articles/Musiani_caring-about-the-plumbing.pdf">Caring about the plumbing</a></li>
+
+<li><a href="https://www.intgovforum.org/multilingual/index.php?q=filedepot_download/4586/590">Report of the UN Secretary-General: implementation of and follow-up to the outcomes of the World Summit on the Information Society</a></li>
+
+
+</ul>
+
+<h4 id="europeanframework">European Framework</h4>
+
+<ul>
+
+<li><a href="https://via.projet-episteme.org/https://ec.europa.eu/education/sites/education/files/digital-education-action-plan.pdf">Digital Education Action Plan</a></li>
+
+<li><a href="https://via.hypothes.is/https://nextleap.eu/netrights/articles/digital_agenda_eng.pdf">Digital Agenda for Europe</a></li>
+
+<li><a href="https://via.hypothes.is/https://nextleap.eu/netrights/articles/digital_single_market.pdf">EU Digital Single Market</a></li>
+
+<li><a href="https://via.projet-episteme.org/https://www.enisa.europa.eu/publications/corporate/enisa-strategy">EU Cyber Security Agency</a></li>
+
+<li><a href="https://via.projet-episteme.org/http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:l14555&from=EN">Promoting Data Protection by Privacy Enhancing Technologies</a></li>
+
+<li><a href="https://via.projet-episteme.org/http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:l14555&from=EN">Personal data and criminal justice authorities</a></li>
+
+<li><a href="https://via.projet-episteme.org/http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:l24222&from=EN">European Data Protection Supervisor</a></li>
+
+<li><a href="https://via.projet-episteme.org/http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:310401_1&from=EN">Right to Be Forgotten</a></li>
+
+<li><a href="https://via.projet-episteme.org/http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:4298958&from=EN">EU citizens’ privacy in data transfers to the US</a></li>
+
+<li><a href="https://via.projet-episteme.org/http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:310401_2&from=EN">Protection of Personal Data</a></li>
+
+<li><a href="https://via.projet-episteme.org/https://ec.europa.eu/digital-single-market/en/policies/open-internet-net-neutrality">EU and Open Internet</a></li>
+
+<li><a href="https://via.projet-episteme.org/https://ec.europa.eu/digital-single-market/en/news/study-implementation-net-neutrality-provisions-telecoms-single-market-regulation-smart-20170011">Study on the implementation of the net neutrality provisions of the Telecoms Single MarketRegulation</a></li>
+
+<li><a href="https://via.hypothes.is/https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">Wikipedia page on the General Data Protection Regulation (GDPR)</a></li>
+
+</ul>
+
+<h4 id="franceframework">France Framework</h4>
+<ul>
+<li><a href="https://via.projet-episteme.org/https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070987&idArticle=LEGIARTI000006465770&dateTexte=&categorieLien=cid">Code des postes et des communications électroniques</a></li>
+
+<li><a href="https://via.hypothes.is/http://www2.assemblee-nationale.fr/static/14/numerique/numerique_rapport.pdf#annotations:TrrkxjDSEeeuO5cxMQ9ztg">Rapport du Conseil du Numérique</a></li>
+
+<li><a href="https://digital-society-forum.orange.com/fr/les-forums/100-forum-vie_privee_et_donnees_personnelles">Private Life and Personal data, Blog from Orange Labs (in French)</a></li>
 </ul>
 
 <h3 id="categories">Categories</h3>
