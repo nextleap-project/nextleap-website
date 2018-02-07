@@ -67,9 +67,6 @@ The goal of this part of the project is understand and popularize the emerging i
 
 <li><a href="https://via.projet-episteme.org/https://www.manilaprinciples.org/">The ManilaPrinciples on Intermediary Liability</a></li>
 
-<li><a href="https://via.projet-episteme.org/http://www.osce.org/fom/78309">The Joint Declaration on Freedom of Expression and the Internet</a></li>
-
-
 </ul>
 
 <h4 id="europeanframework">European Framework</h4>
