@@ -49,6 +49,10 @@ The goal of this part of the project is understand and popularize the emerging i
 
 <li><a href="https://via.projet-episteme.org/https://www.intgovforum.org/multilingual/index.php?q=filedepot_download/4586/590">Report of the UN Secretary-General: implementation of and follow-up to the outcomes of the World Summit on the Information Society</a></li>
 
+<li><a href="https://via.projet-episteme.org/https://www.article19.org/resources/internetofrights-creating-the-universal-declaration-of-digital-rights/"> Creating the Universal Declaration of Digital Rights</a></li>
+
+<li><a href="https://via.projet-episteme.org/http://article19.shorthand.com/"> The Global Principles on Protection of Freedom of Expression and Privacy</a></li>
+
 
 </ul>
 
@@ -58,9 +62,9 @@ The goal of this part of the project is understand and popularize the emerging i
 
 <li><a href="https://via.projet-episteme.org/https://ec.europa.eu/education/sites/education/files/digital-education-action-plan.pdf">Digital Education Action Plan</a></li>
 
-<li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/digital_agenda_eng.pdf">Digital Agenda for Europe</a></li>
+<li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/digital_agenda_en.pdf">Digital Agenda for Europe</a></li>
 
-<li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/digital_single_market.pdf">EU Digital Single Market</a></li>
+<li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/Digital_single_market.pdf">EU Digital Single Market</a></li>
 
 <li><a href="https://via.projet-episteme.org/https://www.enisa.europa.eu/publications/corporate/enisa-strategy">EU Cyber Security Agency</a></li>
 
