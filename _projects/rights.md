@@ -58,9 +58,9 @@ The goal of this part of the project is understand and popularize the emerging i
 
 <li><a href="https://via.projet-episteme.org/https://ec.europa.eu/education/sites/education/files/digital-education-action-plan.pdf">Digital Education Action Plan</a></li>
 
-<li><a href="https://via.hypothes.is/https://nextleap.eu/netrights/articles/digital_agenda_eng.pdf">Digital Agenda for Europe</a></li>
+<li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/digital_agenda_eng.pdf">Digital Agenda for Europe</a></li>
 
-<li><a href="https://via.hypothes.is/https://nextleap.eu/netrights/articles/digital_single_market.pdf">EU Digital Single Market</a></li>
+<li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/digital_single_market.pdf">EU Digital Single Market</a></li>
 
 <li><a href="https://via.projet-episteme.org/https://www.enisa.europa.eu/publications/corporate/enisa-strategy">EU Cyber Security Agency</a></li>
 
@@ -80,7 +80,10 @@ The goal of this part of the project is understand and popularize the emerging i
 
 <li><a href="https://via.projet-episteme.org/https://ec.europa.eu/digital-single-market/en/news/study-implementation-net-neutrality-provisions-telecoms-single-market-regulation-smart-20170011">Study on the implementation of the net neutrality provisions of the Telecoms Single MarketRegulation</a></li>
 
-<li><a href="https://via.hypothes.is/https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">Wikipedia page on the General Data Protection Regulation (GDPR)</a></li>
+<li><a href="https://via.projet-episteme.org/https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">Wikipedia page on the General Data Protection Regulation (GDPR)</a></li>
+
+<li><a href="https://via.projet-episteme.org/http://www.osce.org/fom/78309?download=true"> Joint Declaration on Freedom of Expression and the Internet</a></li>
+
 
 </ul>
 
@@ -88,9 +91,9 @@ The goal of this part of the project is understand and popularize the emerging i
 <ul>
 <li><a href="https://via.projet-episteme.org/https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070987&idArticle=LEGIARTI000006465770&dateTexte=&categorieLien=cid">Code des postes et des communications électroniques</a></li>
 
-<li><a href="https://via.hypothes.is/http://www2.assemblee-nationale.fr/static/14/numerique/numerique_rapport.pdf#annotations:TrrkxjDSEeeuO5cxMQ9ztg">Rapport du Conseil du Numérique</a></li>
+<li><a href="https://via.projet-episteme.org/http://www2.assemblee-nationale.fr/static/14/numerique/numerique_rapport.pdf#annotations:TrrkxjDSEeeuO5cxMQ9ztg">Rapport du Conseil du Numérique</a></li>
 
-<li><a href="https://digital-society-forum.orange.com/fr/les-forums/100-forum-vie_privee_et_donnees_personnelles">Private Life and Personal data, Blog from Orange Labs (in French)</a></li>
+<li><a href="https://via.projet-episteme.org/https://digital-society-forum.orange.com/fr/les-forums/100-forum-vie_privee_et_donnees_personnelles">Private Life and Personal data, Blog from Orange Labs (in French)</a></li>
 </ul>
 
 <h3 id="categories">Categories</h3>
