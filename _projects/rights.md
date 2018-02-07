@@ -26,7 +26,7 @@ The goal of this part of the project is understand and popularize the emerging i
 <a href="https://taniki.github.io/netrights/" class="btn btn-primary">Consult our dashboard</a>
 </div>
 
-<p>If you want to participare, here is a <a href="https://paper.dropbox.com/doc/nextleap-net-rights-contributions-Sga2XgERHwNINzaeVQNoK">quick tutorial about hypothes.is</a>.</p>
+<p>If you want to participate, here is a <a href="https://paper.dropbox.com/doc/nextleap-net-rights-contributions-Sga2XgERHwNINzaeVQNoK">quick tutorial about hypothes.is</a>.</p>
 
 <h3 id="documents">Documents</h3>
 
@@ -35,19 +35,19 @@ The goal of this part of the project is understand and popularize the emerging i
 <h4 id="globalframework">Global Framework</h4>
 
 <ul>
-<li><a href="https://via.hypothes.is/https://webwewant.org/#annotations:AUceYjDSEeenMqMfh3FXBQ">Web We Want</a></li>
+<li><a href="https://via.projet-episteme.org/https://webwewant.org/#annotations:AUceYjDSEeenMqMfh3FXBQ">Web We Want</a></li>
 
-<li><a href="https://via.hypothes.is/http://internetrightsandprinciples.org/site/wp-content/uploads/2017/03/IRPC_english_4thedition-1.pdf#annotations:PYIH6DDSEeezA6MOqutTVA">The charter of human rights and principles for the internet</a></li>
+<li><a href="https://via.projet-episteme.org/http://internetrightsandprinciples.org/site/wp-content/uploads/2017/03/IRPC_english_4thedition-1.pdf#annotations:PYIH6DDSEeezA6MOqutTVA">The charter of human rights and principles for the internet</a></li>
 
-<li><a href="https://via.hypothes.is/https://digitalcharta.eu/#annotations:ZEia6jDSEeef9Gsz7rO3qw">Digital Charta</a></li>
+<li><a href="https://via.projet-episteme.org/https://digitalcharta.eu/#annotations:ZEia6jDSEeef9Gsz7rO3qw">Digital Charta</a></li>
 
-<li><a href="https://via.hypothes.is/https://nextleap.eu/netrights/articles/Benkler-Degrees_of_Freedom_Dimensions_of_Power_Final.pdf">Degrees of Freedom, Dimensions of Power</a></li>
+<li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/Benkler-Degrees_of_Freedom_Dimensions_of_Power_Final.pdf">Degrees of Freedom, Dimensions of Power</a></li>
 
-<li><a href="https://via.hypothes.is/https://nextleap.eu/netrights/articles/Internet Bill of rights-Musiani.pdf">Internet Bill of Rights</a></li>
+<li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/Internet Bill of rights-Musiani.pdf">Internet Bill of Rights</a></li>
 
-<li><a href="https://via.hypothes.is/https://nextleap.eu/netrights/articles/Musiani_caring-about-the-plumbing.pdf">Caring about the plumbing</a></li>
+<li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/Musiani_caring-about-the-plumbing.pdf">Caring about the plumbing</a></li>
 
-<li><a href="https://www.intgovforum.org/multilingual/index.php?q=filedepot_download/4586/590">Report of the UN Secretary-General: implementation of and follow-up to the outcomes of the World Summit on the Information Society</a></li>
+<li><a href="https://via.projet-episteme.org/https://www.intgovforum.org/multilingual/index.php?q=filedepot_download/4586/590">Report of the UN Secretary-General: implementation of and follow-up to the outcomes of the World Summit on the Information Society</a></li>
 
 
 </ul>
