@@ -49,9 +49,25 @@ The goal of this part of the project is understand and popularize the emerging i
 
 <li><a href="https://via.projet-episteme.org/https://www.intgovforum.org/multilingual/index.php?q=filedepot_download/4586/590">Report of the UN Secretary-General: implementation of and follow-up to the outcomes of the World Summit on the Information Society</a></li>
 
-<li><a href="https://via.projet-episteme.org/https://www.article19.org/resources/internetofrights-creating-the-universal-declaration-of-digital-rights/"> Creating the Universal Declaration of Digital Rights</a></li>
+<li><a href="https://via.projet-episteme.org/https://www.article19.org/resources/internetofrights-creating-the-universal-declaration-of-digital-rights/">Creating the Universal Declaration of Digital Rights</a></li>
 
-<li><a href="https://via.projet-episteme.org/http://article19.shorthand.com/"> The Global Principles on Protection of Freedom of Expression and Privacy</a></li>
+<li><a href="https://via.projet-episteme.org/http://article19.shorthand.com/">The Global Principles on Protection of Freedom of Expression and Privacy</a></li>
+
+<li><a href="https://via.projet-episteme.org/http://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf">The UN Guiding Principles on Business and Human Rights</a></li>
+
+<li><a href="https://via.projet-episteme.org/https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm">The OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data</a></li>
+
+<li><a href="https://via.projet-episteme.org/https://necessaryandproportionate.org/about">The International Principles on the Application of Human Rights to Communications Surveillance</a></li>
+
+<li><a href="https://via.projet-episteme.org/https://www.article19.org/data/files/pdfs/standards/joburgprinciples.pdf">The Johannesburg Principles on National Security, Freedom of Expression and Access to Information</a></li>
+
+<li><a href="https://via.projet-episteme.org/https://www.opensocietyfoundations.org/publications/global-principles-national-security-and-freedom-information-tshwane-principles">The Global Principles on National Security and the Right to Information</a></li>
+
+<li><a href="https://via.projet-episteme.org/https://www.article19.org/data/files/medialibrary/38641/Revised-Defining-Defamation-Principles-2016.pdf">The Revised Defining Defamation: Principles on the Freedom of Expression and the Protection of Reputation</a></li>
+
+<li><a href="https://via.projet-episteme.org/https://www.manilaprinciples.org/">The ManilaPrinciples on Intermediary Liability</a></li>
+
+<li><a href="https://via.projet-episteme.org/http://www.osce.org/fom/78309">The Joint Declaration on Freedom of Expression and the Internet</a></li>
 
 
 </ul>
