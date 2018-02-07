@@ -66,11 +66,11 @@ The goal of this part of the project is understand and popularize the emerging i
 
 <li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/Digital_single_market.pdf">EU Digital Single Market</a></li>
 
-<li><a href="https://via.projet-episteme.org/https://www.enisa.europa.eu/publications/corporate/enisa-strategy">EU Cyber Security Agency</a></li>
+<li><a href="https://via.projet-episteme.org/https://www.enisa.europa.eu/publications/corporate/enisa-strategy">ENISA Strategy (EU Cyber Security Agency)</a></li>
 
 <li><a href="https://via.projet-episteme.org/http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:l14555&from=EN">Promoting Data Protection by Privacy Enhancing Technologies</a></li>
 
-<li><a href="https://via.projet-episteme.org/http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:l14555&from=EN">Personal data and criminal justice authorities</a></li>
+<li><a href="https://via.projet-episteme.org/http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016L0680&from=EN">Personal data and criminal justice authorities</a></li>
 
 <li><a href="https://via.projet-episteme.org/http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=LEGISSUM:l24222&from=EN">European Data Protection Supervisor</a></li>
 
