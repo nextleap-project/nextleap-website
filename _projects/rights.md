@@ -23,7 +23,7 @@ The goal of this part of the project is understand and popularize the emerging i
 <h3>Collective annotations</h3>
 
 <div class="pb-3 pt-3 text-center">
-<a href="https://taniki.github.io/netrights/" class="btn btn-primary">Consult our dashboard</a>
+<a href="http://iri-research.org" class="btn btn-primary">Consult our dashboard</a>
 </div>
 
 <p>If you want to participate, here is a <a href="https://paper.dropbox.com/doc/nextleap-net-rights-contributions-Sga2XgERHwNINzaeVQNoK">quick tutorial about hypothes.is</a>.</p>
