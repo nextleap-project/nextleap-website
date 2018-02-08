@@ -65,7 +65,9 @@ The goal of this part of the project is understand and popularize the emerging i
 
 <li><a href="https://via.projet-episteme.org/https://www.article19.org/data/files/medialibrary/38641/Revised-Defining-Defamation-Principles-2016.pdf">The Revised Defining Defamation: Principles on the Freedom of Expression and the Protection of Reputation</a></li>
 
-<li><a href="https://via.projet-episteme.org/https://www.manilaprinciples.org/">The ManilaPrinciples on Intermediary Liability</a></li>
+<li><a href="https://via.projet-episteme.org/https://www.manilaprinciples.org/">The Manila Principles on Intermediary Liability</a></li>
+
+<li><a href="https://via.projet-episteme.org/https://www.eff.org/fr/cyberspace-independence">A Declaration of the Independence of Cyberspace by John Perry Barlow</a></li>
 
 </ul>
 
@@ -101,6 +103,7 @@ The goal of this part of the project is understand and popularize the emerging i
 
 <li><a href="https://via.projet-episteme.org/http://www.osce.org/fom/78309?download=true"> Joint Declaration on Freedom of Expression and the Internet</a></li>
 
+<li><a href="https://via.projet-episteme.org/https://www.dsimanifesto.eu/manifesto/">The Digital Social Innovation Manifesto</a></li>
 
 </ul>
 
