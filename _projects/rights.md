@@ -75,6 +75,8 @@ The goal of this part of the project is understand and popularize the emerging i
 
 <ul>
 
+<li><a href="https://via.projet-episteme.org/https://www.dsimanifesto.eu/manifesto/">DSI Manifesto</a></li>
+
 <li><a href="https://via.projet-episteme.org/https://ec.europa.eu/education/sites/education/files/digital-education-action-plan.pdf">Digital Education Action Plan</a></li>
 
 <li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/digital_agenda_en.pdf">Digital Agenda for Europe</a></li>
