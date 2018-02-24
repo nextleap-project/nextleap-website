@@ -111,6 +111,8 @@ The goal of this part of the project is understand and popularize the emerging i
 
 <h4 id="franceframework">France Framework</h4>
 <ul>
+<li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/W3C-paper-proposal.pdf">W3C Paper Proposal</a></li>
+
 <li><a href="https://via.projet-episteme.org/https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070987&idArticle=LEGIARTI000006465770&dateTexte=&categorieLien=cid">Code des postes et des communications électroniques</a></li>
 
 <li><a href="https://via.projet-episteme.org/http://www2.assemblee-nationale.fr/static/14/numerique/numerique_rapport.pdf#annotations:TrrkxjDSEeeuO5cxMQ9ztg">Rapport du Conseil du Numérique</a></li>
