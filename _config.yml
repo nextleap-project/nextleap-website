@@ -7,6 +7,8 @@ collections:
     output: true
   resources:
     output: true
+  articles:
+    output: true
 
 defaults:
   -
