@@ -35,6 +35,8 @@ The goal of this part of the project is understand and popularize the emerging i
 <h4 id="globalframework">Global Framework</h4>
 
 <ul>
+<li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/rfc8280.pdf">Research into Human Rights Protocol Considerations</a></li>
+
 <li><a href="https://via.projet-episteme.org/https://webwewant.org/#annotations:AUceYjDSEeenMqMfh3FXBQ">Web We Want</a></li>
 
 <li><a href="https://via.projet-episteme.org/http://internetrightsandprinciples.org/site/wp-content/uploads/2017/03/IRPC_english_4thedition-1.pdf#annotations:PYIH6DDSEeezA6MOqutTVA">The charter of human rights and principles for the internet</a></li>
