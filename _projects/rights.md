@@ -113,6 +113,9 @@ The goal of this part of the project is understand and popularize the emerging i
 
 <h4 id="franceframework">France Framework</h4>
 <ul>
+
+<li><a href="https://via.projet-episteme.org/https://annotations.iri-research.org/wp-content/uploads/2018/03/Rapport-Villani.pdf">Rapport Cédric Villani: Donner un sens à l'Intelligence Artificielle</a></li>
+
 <li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/W3C-paper-proposal.pdf">W3C Paper Proposal</a></li>
 
 <li><a href="https://via.projet-episteme.org/https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070987&idArticle=LEGIARTI000006465770&dateTexte=&categorieLien=cid">Code des postes et des communications électroniques</a></li>
