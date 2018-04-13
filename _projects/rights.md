@@ -35,6 +35,8 @@ The goal of this part of the project is understand and popularize the emerging i
 <h4 id="globalframework">Global Framework</h4>
 
 <ul>
+<li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/20180412_SCQ.pdf">Mark Zuckerberg devant le Sénat Américain</a></li>
+
 <li><a href="https://via.projet-episteme.org/https://www.rfc-editor.org/rfc/pdfrfc/rfc8280.txt.pdf">Research into Human Rights Protocol Considerations</a></li>
 
 <li><a href="https://via.projet-episteme.org/https://webwewant.org/#annotations:AUceYjDSEeenMqMfh3FXBQ">Web We Want</a></li>
