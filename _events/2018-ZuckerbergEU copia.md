@@ -1,12 +1,11 @@
 ---
-title: "Wouter Lueks [EPFL]: Everything can be hacked! Or not?"
+title: "Privacy technologies: Carmela Troncoso (EPFL) speaking at the Barcelona City Hall internal workshop"
 
-date: 2018-05-29
-fulldate: 22.05.2018
+date: 2018-06-1
+fulldate: 01.06.2018
 
-location: Assen, The Netherlands
+location: Barcelona, Spain
 
 event_url: 
 ---
-
-Wouter Lueks gives a talk about hacking and cryptography at the CS Vincent van Gogh highschool (Assen, The Netherlands) in mathematics preparatory program for university. 
+[Carmela Troncoso](http://carmelatroncoso.com/) (EPFL) participates at the Barcelona City Hall internal workshop speaking about Privacy Technologies to Barcelona City Hall employees with relation to privacy (IT managers, developers, chief security officer, ...).
