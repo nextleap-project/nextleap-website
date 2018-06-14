@@ -35,6 +35,8 @@ The goal of this part of the project is understand and popularize the emerging i
 <h4 id="globalframework">Global Framework</h4>
 
 <ul>
+<li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/Magna_Charta_constitution.pdf">Magna Charta for the Web : Draft for a constitution of the Internet</a></li>
+
 <li><a href="https://via.projet-episteme.org/https://blog.mondediplo.net/2018-04-10-Pour-un-service-public-des-donnees">Pour un service public des données – Evgeny Morozov</a></li>
 
 <li><a href="https://via.projet-episteme.org/https://nextleap.eu/netrights/articles/20180412_SCQ.pdf">Mark Zuckerberg devant le Sénat Américain</a></li>
