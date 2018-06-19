@@ -1,8 +1,8 @@
 ---
 title: "Ateliers de l'avenir numérique – Forum sur la Gouvernance de l'Internet"
 
-date: 2018-04-25
-fulldate: 25.04.2018
+date: 2018-07-05
+fulldate: 05.07.2018
 
 location: Paris, France
 
