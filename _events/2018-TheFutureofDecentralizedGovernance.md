@@ -18,8 +18,7 @@ Currently, there is a generalized crisis in governance as traditional governance
 
 Given these technical and political developments, new and improved models that take into account citizen involvement and improve meaningful participation need to be developed, along with fundamental Internet rights that can both be adopted by national governments, supra-national bodies, corporations, and cities. These principles will likely have to do with the guarantee of privacy, data protection, and other fundamental rights that are especially impacted by the Internet. This workshop will discuss the issues of decentralization, self-sovereignty, and net rights. In particular, this workshop will explore the understanding of the current national and international governance processes (both strengths and weaknesses, with a particular focus on the case of Russia) and new decentralized participatory practices based on crowdsourcing and direct democracy.
 
-Important Dates:
-================
+##### Important Dates:
 
 25 September 2018: Deadline for submission 
 2nd October 2018: Acceptance notification and registration instructions sent
@@ -27,8 +26,7 @@ Important Dates:
 26 October 2018: Workshop
 10th November 2018: Camera-ready version due
 
-Submissons and Publication:
-================
+##### Submissons and Publication:
 
 We accept both short position papers and long research papers. Short position papers may not exceed 8 pages total and full papers may not exceed 16 pages, including references and appendices. All submissions should follow in the Springer LNCS format and must be in Portable Document Format (.pdf). Papers should be unpublished and in English. 
 
@@ -39,13 +37,11 @@ https://easychair.org/conferences/?conf=insci2018
 Publications will be published in the post-proceedings of the Internet Science 2018 conference and we will investigate publishing full versions in a relevant journal. 
 
 
-Programme
-================
+##### Programme
 
 Invited Keynote: Matt Blaze (Univesity of Pennsylvania) (tbc)
 
-Program Committee
-================
+##### Program Committee
 
 Chairs
 Harry Halpin (Inria)
