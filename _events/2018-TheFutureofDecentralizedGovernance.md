@@ -11,8 +11,7 @@ event_url: https://www.ibiblio.org/hhalpin/internetsci2018/
 ---
 ##### Co-located with Internet Science 2018 Conference (Insci2018)
 
-Background and Aims
-===================
+##### Background and Aims
 
 Currently, there is a generalized crisis in governance as traditional governance is subsumed by the Internet. On the Internet, there has been revelations of US mass surveillance and massive abuse of personal data. The traditional governance bodies of the Internet from the ITU to W3C seem hard-pressed by Silicon Valley companies, which has lead to widespread disillusionment. At the same time, the European Union's General Data Protection Directive is attempting to enforce European rights, but purely through legal rather than technical means. Yet there have been new technologies based on encryption, such as blockchain technologies, that claim to be able to revolutionize governance. Yet, at the same time, there are numerous perils, such as the rise of opaque AI decision-making systems and consolidation of power in the hands of a few technologists, rather than a rapid democratization of technology.
 
